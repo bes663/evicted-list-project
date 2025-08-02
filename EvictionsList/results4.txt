@@ -1,0 +1,4 @@
+Read 16 towns  from smallEvictionData.txt.
+ The following (0)  are flagged, at threshold: 8.0:
+popul 	povRate 	evictions 	eviction rate  	   on watch 	name, state 
+

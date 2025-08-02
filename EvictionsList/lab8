@@ -1,0 +1,12 @@
+convolutional nn lab 
+
+1.2) 
+weight f3 and bias of 10 
+larger bias is sharper because it reduces noise and emphasizes the darker lines
+
+when you flip the sign, it inverts the colors 
+same amt of sharpness
+
+2.1 can't guarantee the difference between x1 and x3
+bc it's adding them together 
+

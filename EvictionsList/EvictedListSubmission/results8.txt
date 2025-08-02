@@ -1,0 +1,7 @@
+Read 25069 towns  from completeEvictionData.txt.
+ The following (3)  are flagged, at threshold: 8.0:
+popul 	povRate 	evictions 	eviction rate  	   on watch 	name, state 
+213	32.5		41		19.248826291079812	true	Buenaventura Lakes, Florida
+0	0.0		1		Infinity	true	Lake Harbor, Florida
+0	0.0		2		Infinity	true	McConnico, Arizona
+

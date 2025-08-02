@@ -1,0 +1,17 @@
+town name	state	population	poverty-rate	evictions
+Holland	TX	609	12.16	4
+San Carlos	CA	29454	1.52	4
+PlRunFarm	OH	5081	5.17	26
+Wilkesboro	NC	3137	27.85	9
+Evanston	IL	76599	4.77	9
+Claremont	NH	13151	10.05	24
+Woodbury	NY	10204	1.89	0
+MViewAcres	CA	4281	15.85	16
+Covington	WA	18689	6.63	11
+Altadena	CA	44693	5.66	102
+Goldsboro	NC	39043	19.2	599
+Marston	MI	610	30.9	0
+Kaukauna	WI	12983	4.82	20
+Lovington	NM	11499	16.96	25
+Hickory	NC	40172	14	328
+Lynn	MA	91626	16.71	529

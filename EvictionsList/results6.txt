@@ -1,0 +1,2311 @@
+Read 25069 towns  from completeEvictionData.txt.
+ The following (2307)  are flagged, at threshold: 0.5:
+popul 	povRate 	evictions 	eviction rate  	   on watch 	name, state 
+5197	34.59		58		1.1160284779680585	true	Abbeville, South Carolina
+12381	24.98		70		0.565382440836766	true	Abbeville, Louisiana
+6914	9.14		42		0.607463118310674	true	Aberdeen, North Carolina
+16429	16.59		83		0.5052042120640331	true	Aberdeen, Washington
+122226	13.45		724		0.5923453275080588	true	Abilene, Texas
+8143	9.49		42		0.5157804249048262	true	Abingdon, Virginia
+375	32.14		3		0.8	true	Acacia Villas, Florida
+21512	8.66		112		0.5206396429899591	true	Acworth, Georgia
+17149	17.9		97		0.5656306490174354	true	Ada, Oklahoma
+4712	13.66		36		0.7640067911714771	true	Adairsville, Georgia
+936	16.24		10		1.0683760683760684	true	Addyston, Ohio
+5281	24.64		69		1.3065707252414316	true	Adel, Georgia
+32059	38.89		271		0.84531644779937	true	Adelanto, California
+20878	21.92		142		0.6801417760321871	true	Adrian, Michigan
+1165	18.04		21		1.8025751072961373	true	Aetna Estates, Colorado
+4976	32.64		50		1.004823151125402	true	Ahoskie, North Carolina
+30183	10.72		465		1.5406023258125436	true	Aiken, South Carolina
+1565	32.14		16		1.0223642172523961	true	Airport, California
+1193	50.78		7		0.586756077116513	true	Ak-Chin Village, Arizona
+198329	20.35		2492		1.2564980411336717	true	Akron, Ohio
+675	5.67		4		0.5925925925925926	true	Alanson, Michigan
+76466	28.75		2115		2.765935186880444	true	Albany, Georgia
+15969	20.33		117		0.7326695472477927	true	Albemarle, North Carolina
+8316	28.04		115		1.382876382876383	true	Albion, Michigan
+556092	14.94		4541		0.8165914992483259	true	Albuquerque, New Mexico
+470	15.67		4		0.851063829787234	true	Alcolu, South Carolina
+1221	29.28		7		0.5733005733005733	true	Alderson, West Virginia
+149315	6.23		817		0.5471653886079764	true	Alexandria, Virginia
+4063	11.43		34		0.8368200836820083	true	Algonac, Michigan
+5036	16.73		66		1.3105639396346307	true	Allegan, Michigan
+3261	18.5		24		0.7359705611775529	true	Allendale, South Carolina
+577	15.66		5		0.8665511265164645	true	Allenhurst, Georgia
+119261	22.44		650		0.5450231005944944	true	Allentown, Pennsylvania
+22137	22.28		180		0.8131183087139178	true	Alliance, Ohio
+140	0.0		1		0.7142857142857143	true	Allisonia, Virginia
+448	4.41		3		0.6696428571428571	true	Alma, Texas
+1867	47.92		28		1.4997321906802357	true	Alorton, Illinois
+42218	9.95		257		0.6087450850348193	true	Altamonte Springs, Florida
+3464	22.34		25		0.7217090069284064	true	Altavista, Virginia
+154	0.0		1		0.6493506493506493	true	Alton, New Hampshire
+3868	11.18		23		0.594622543950362	true	Alvarado, Texas
+165	0.0		3		1.8181818181818181	true	Amado, Arizona
+154	22.86		1		0.6493506493506493	true	Amanda Park, Washington
+483	38.03		4		0.8281573498964804	true	Amelia Court House, Virginia
+2323	2.73		12		0.5165733964700818	true	Amherst, Virginia
+2056	20.62		12		0.5836575875486382	true	Anahuac, Texas
+26978	23.36		642		2.379716806286604	true	Anderson, South Carolina
+2050	26.33		11		0.5365853658536586	true	Andrews, North Carolina
+2842	31.11		67		2.357494722026742	true	Andrews, South Carolina
+960	3.68		5		0.5208333333333333	true	Angel Fire, New Mexico
+8615	15.19		50		0.5803830528148578	true	Angola, Indiana
+38841	7.19		223		0.5741355783836668	true	Annapolis, Maryland
+36586	17.15		258		0.705187776745203	true	Apache Junction, Arizona
+1871	28.96		10		0.5344735435595939	true	Appalachia, Virginia
+175	0.0		1		0.5714285714285714	true	Apple Grove, West Virginia
+71083	17.03		387		0.5444339715543801	true	Apple Valley, California
+301	11.9		2		0.6644518272425249	true	Aquilla, Ohio
+977	19.76		6		0.6141248720573182	true	Aragon, Georgia
+956	3.09		15		1.5690376569037656	true	Arcadia Lakes, South Carolina
+11396	7.15		78		0.6844506844506845	true	Archdale, North Carolina
+93993	15.86		675		0.7181385847882289	true	Arden-Arcade, California
+24955	11.62		160		0.6411540773392106	true	Ardmore, Oklahoma
+2155	10.33		18		0.8352668213457077	true	Arial, South Carolina
+8969	12.09		59		0.6578213847697625	true	Arizona City, Arizona
+379716	13.66		2706		0.712637866194735	true	Arlington, Texas
+947	16.46		17		1.7951425554382259	true	Arlington Heights, Ohio
+5053	27.77		47		0.9301405105877696	true	Arnold, Pennsylvania
+25897	22.38		326		1.2588330694675058	true	Asheboro, North Carolina
+86789	11.79		552		0.6360253027457397	true	Asheville, North Carolina
+7298	11.84		47		0.6440120580981091	true	Ashland, Virginia
+1412	8.27		9		0.6373937677053824	true	Ashland, New Hampshire
+2753	9.34		15		0.5448601525608427	true	Ashley, Pennsylvania
+1080	14.1		9		0.8333333333333334	true	Ashley, Indiana
+394	6.52		2		0.5076142131979695	true	Ashley Heights, North Carolina
+18663	27.97		95		0.5090285591812678	true	Ashtabula, Ohio
+1109	7.12		7		0.6311992786293958	true	Athens, Michigan
+13634	24.66		104		0.762798885140091	true	Athens, Tennessee
+1009	8.02		8		0.7928642220019821	true	Atkins, Virginia
+448901	19.3		6201		1.3813736213552654	true	Atlanta, Georgia
+1596	14.32		8		0.5012531328320802	true	Atlantic Beach, North Carolina
+285	52.17		2		0.7017543859649122	true	Atlantic Beach, South Carolina
+3077	32.13		23		0.7474813129671758	true	Atoka, Oklahoma
+12979	12.43		128		0.9862084906387242	true	Auburn, Indiana
+22916	9.48		183		0.7985686856344912	true	Auburn, Maine
+8369	36.6		65		0.7766758274584777	true	August, California
+18772	14.35		191		1.017472831877264	true	Augusta, Maine
+196635	20.92		1196		0.6082335291275714	true	Augusta-Richmond County, Georgia
+785	22.09		12		1.5286624203821657	true	Aulander, North Carolina
+345867	11.4		3131		0.9052612709509725	true	Aurora, Colorado
+3744	16.3		30		0.8012820512820512	true	Aurora, Indiana
+7473	14.64		45		0.602167804094741	true	Aurora, Missouri
+6994	12.67		65		0.929368029739777	true	Austell, Georgia
+28759	9.73		169		0.5876421294203553	true	Austintown, Ohio
+6414	7.84		48		0.7483629560336763	true	Avon, Colorado
+78872	14.72		663		0.8406024951820671	true	Avondale, Arizona
+392	4.12		3		0.7653061224489796	true	Avondale, Missouri
+5035	23.45		40		0.7944389275074478	true	Ayden, North Carolina
+713	17.8		6		0.8415147265077139	true	Aynor, South Carolina
+8753	27.88		79		0.9025476979321375	true	Bacliff, Texas
+13800	20.79		88		0.6376811594202898	true	Baker, Louisiana
+2930	21.4		97		3.3105802047781565	true	Balcones Heights, Texas
+195	0.0		1		0.5128205128205128	true	Ballantine, Montana
+107	33.33		1		0.9345794392523363	true	Ballou, Oklahoma
+1026	14.07		15		1.461988304093567	true	Baltic, Connecticut
+3501	13.55		20		0.5712653527563554	true	Bamberg, South Carolina
+1435	3.86		8		0.5574912891986062	true	Bangor, Wisconsin
+5233	11.55		38		0.7261609019682782	true	Bangor, Pennsylvania
+32695	17.8		277		0.8472243462303105	true	Bangor, Maine
+26340	15.44		170		0.64540622627183	true	Barberton, Ohio
+3172	30.93		22		0.6935687263556116	true	Barbourville, Kentucky
+853	0.0		5		0.5861664712778429	true	Barker Ten Mile, North Carolina
+147	11.11		1		0.6802721088435374	true	Barlow, Oregon
+4664	36.66		88		1.8867924528301887	true	Barnwell, South Carolina
+23281	27.74		270		1.159743997250977	true	Barstow, California
+1113	30.06		7		0.628930817610063	true	Bassett, Virginia
+272	12.28		2		0.7352941176470588	true	Bassfield, Mississippi
+685	0.0		5		0.7299270072992701	true	Basye, Virginia
+7413	10.62		39		0.5261027923917442	true	Batesville, Mississippi
+8349	21.84		70		0.8384237633249491	true	Bath, Maine
+580	20.49		23		3.9655172413793105	true	Bath (Berkeley Springs), West Virginia
+229186	17.47		3335		1.4551499655301807	true	Baton Rouge, Louisiana
+51830	17.98		849		1.6380474628593478	true	Battle Creek, Michigan
+4689	4.29		24		0.5118362124120281	true	Battlement Mesa, Colorado
+34402	16.98		352		1.023196325795012	true	Bay City, Michigan
+566	1.28		3		0.5300353356890459	true	Bay View, Ohio
+221	22.55		4		1.809954751131222	true	Bay View, Michigan
+25453	13.39		135		0.5303893450673791	true	Bayonet Point, Florida
+3283	10.35		17		0.5178190679256778	true	Bayshore, North Carolina
+19446	18.73		99		0.5091021289725394	true	Bayshore Gardens, Florida
+74897	17.38		426		0.5687811260798162	true	Baytown, Texas
+2548	21.66		14		0.5494505494505495	true	Bayview, California
+6564	14.33		43		0.6550883607556368	true	Beacon Square, Florida
+19886	11.14		127		0.6386402494217037	true	Bear, Delaware
+167	43.14		1		0.5988023952095809	true	Bear Creek, California
+1086	2.88		8		0.7366482504604052	true	Beaver, West Virginia
+16400	8.57		92		0.5609756097560975	true	Beaver Dam, Wisconsin
+8768	25.14		60		0.6843065693430658	true	Beaver Falls, Pennsylvania
+17375	14.74		197		1.1338129496402878	true	Beckley, West Virginia
+13371	18.11		69		0.5160421808391294	true	Bedford, Indiana
+48559	4.74		256		0.5271937230997343	true	Bedford, Texas
+12868	11.81		106		0.8237488343176873	true	Bedford, Ohio
+10665	13.14		221		2.0721987810595404	true	Bedford Heights, Ohio
+14000	15.02		165		1.1785714285714286	true	Beech Grove, Indiana
+10184	37.53		103		1.011390416339356	true	Beecher, Michigan
+2726	35.96		52		1.9075568598679384	true	Bel-Ridge, Missouri
+334	0.0		2		0.5988023952095809	true	Bell Arthur, North Carolina
+13987	8.53		72		0.5147637091585043	true	Bellair-Meadowbrook Terrace, Florida
+1247	11.72		8		0.6415396952686447	true	Belle, West Virginia
+17950	27.67		120		0.6685236768802229	true	Belle Glade, Florida
+13279	16.33		85		0.6401084419007455	true	Bellefontaine, Ohio
+10814	24.04		107		0.989458109857592	true	Bellefontaine Neighbors, Missouri
+183	1.69		1		0.546448087431694	true	Bellerive, Missouri
+8109	8.34		41		0.505611049451227	true	Bellevue, Ohio
+1382	8.6		8		0.5788712011577424	true	Bellevue, Michigan
+5772	18.68		142		2.46015246015246	true	Bellwood, Virginia
+36858	21.58		249		0.6755656845189647	true	Beloit, Wisconsin
+4247	14.2		33		0.7770190722863198	true	Belton, South Carolina
+23209	13.42		154		0.6635356973587833	true	Belton, Missouri
+5706	18.97		42		0.7360672975814931	true	Belvedere, South Carolina
+16214	20.54		357		2.201800912791415	true	Belvedere Park, Georgia
+1236	19.87		13		1.051779935275081	true	Belview, Virginia
+463	14.85		5		1.079913606911447	true	Belvoir, North Carolina
+8834	30.23		144		1.6300656554222324	true	Bennettsville, South Carolina
+335	6.45		2		0.5970149253731344	true	Bennington, New Hampshire
+585	3.11		6		1.0256410256410255	true	Benns Church, Virginia
+6228	24.49		217		3.4842646114322418	true	Bensley, Virginia
+3478	28.71		23		0.6612995974698103	true	Benson, North Carolina
+10014	48.41		346		3.455162772119033	true	Benton Harbor, Michigan
+4235	40.35		126		2.975206611570248	true	Benton Heights, Michigan
+198	0.0		1		0.5050505050505051	true	Bentonville, Ohio
+1363	23.6		9		0.6603081438004402	true	Benwood, West Virginia
+9083	23.13		138		1.519321809974678	true	Berkeley, Missouri
+11599	13.06		113		0.9742219156823865	true	Berkley, Colorado
+9580	18.07		63		0.6576200417536535	true	Berlin, New Hampshire
+165	2.27		1		0.6060606060606061	true	Bessie, Oklahoma
+19478	12.16		130		0.6674196529417805	true	Bethany, Oklahoma
+171	1.82		2		1.1695906432748537	true	Bethel, Delaware
+700	20.83		4		0.5714285714285714	true	Bethlehem, Georgia
+656	41.11		4		0.6097560975609756	true	Beverly, West Virginia
+21289	10.81		203		0.9535440837991451	true	Biddeford, Maine
+10532	28.58		55		0.5222180022787695	true	Big Rapids, Michigan
+921	10.55		5		0.5428881650380022	true	Billings, Missouri
+44825	21.3		414		0.9235917456776352	true	Biloxi, Mississippi
+1558	6.05		9		0.5776636713735559	true	Birch Run, Michigan
+3342	38.66		35		1.0472770795930582	true	Bishopville, South Carolina
+642	24.26		8		1.2461059190031152	true	Black Creek, North Carolina
+6938	12.35		43		0.6197751513404439	true	Black Jack, Missouri
+8960	10.9		84		0.9375	true	Blacklick Estates, Ohio
+1975	29.04		33		1.6708860759493671	true	Blacksburg, South Carolina
+163	25.0		1		0.6134969325153374	true	Blacksville, West Virginia
+1875	29.42		13		0.6933333333333334	true	Bladenboro, North Carolina
+9461	18.76		71		0.7504492125568122	true	Bladensburg, Maryland
+1303	18.48		11		0.844205679201842	true	Blades, Delaware
+137	0.0		1		0.7299270072992701	true	Blenheim, South Carolina
+1347	8.95		7		0.5196733481811433	true	Bloomfield, Pennsylvania
+2746	7.71		18		0.6554989075018208	true	Bloomingdale, Georgia
+909	12.33		5		0.5500550055005501	true	Bloomville, Ohio
+994	0.0		5		0.5030181086519114	true	Blue Ridge Summit, Pennsylvania
+442	11.11		4		0.904977375565611	true	Blue River, Wisconsin
+10431	18.33		79		0.7573578755632251	true	Bluefield, West Virginia
+638	21.88		4		0.6269592476489028	true	Bokchito, Oklahoma
+2003	12.7		18		0.8986520219670495	true	Bolindale, Ohio
+3873	12.36		42		1.0844306738962044	true	Bonanza, Georgia
+7498	7.35		48		0.6401707121899174	true	Bonner Springs, Kansas
+158	4.08		1		0.6329113924050633	true	Boones Mill, Virginia
+1870	3.01		24		1.2834224598930482	true	Boulevard Gardens, Florida
+520	2.54		3		0.576923076923077	true	Bowdoinham, Maine
+2252	35.03		33		1.4653641207815276	true	Bowdon, Georgia
+320	6.25		3		0.9375	true	Bowers, Delaware
+61617	20.74		545		0.8844961617735365	true	Bowling Green, Kentucky
+26	0.0		1		3.8461538461538463	true	Bowmore, North Carolina
+340	12.35		2		0.5882352941176471	true	Boyne Falls, Michigan
+193	28.26		1		0.5181347150259068	true	Boynton, Oklahoma
+1989	30.18		20		1.0055304172951232	true	Braddock, Pennsylvania
+1158	16.05		7		0.6044905008635579	true	Bradford, Rhode Island
+458	18.6		4		0.8733624454148471	true	Brady Lake, Ohio
+178	22.92		1		0.5617977528089888	true	Braman, Oklahoma
+145	8.89		1		0.6896551724137931	true	Branchville, Virginia
+108287	8.9		562		0.5189911993129369	true	Brandon, Florida
+6015	2.55		37		0.6151288445552784	true	Branford Center, Connecticut
+11084	13.32		68		0.6134969325153374	true	Branson, Missouri
+364	15.56		2		0.5494505494505495	true	Braswell, Georgia
+1180	24.84		9		0.7627118644067797	true	Breckenridge, Michigan
+4728	20.54		62		1.311336717428088	true	Breckenridge Hills, Missouri
+6224	16.09		38		0.6105398457583547	true	Bremen, Georgia
+548	0.63		3		0.5474452554744526	true	Briaroaks, Texas
+110	4.35		1		0.9090909090909091	true	Brice, Ohio
+147340	19.85		1591		1.079815392968644	true	Bridgeport, Connecticut
+6574	16.22		69		1.0495892911469427	true	Bridgeport, Michigan
+304	4.49		2		0.6578947368421052	true	Bridgeton, North Carolina
+11699	10.92		97		0.8291306949311907	true	Bridgeton, Missouri
+2364	12.52		12		0.5076142131979695	true	Bridgeville, Delaware
+1997	6.63		17		0.8512769153730596	true	Bridgman, Michigan
+9634	10.92		56		0.5812746522731991	true	Bristol, Pennsylvania
+17524	18.34		206		1.1755307007532527	true	Bristol, Virginia
+60554	8.06		309		0.5102883376820689	true	Bristol, Connecticut
+4504	5.08		25		0.5550621669626998	true	Broad Brook, Connecticut
+2364	11.79		13		0.5499153976311337	true	Brogden, North Carolina
+12465	30.76		67		0.5375050140393101	true	Brookhaven, Mississippi
+8054	3.41		41		0.5090638192202632	true	Brookhaven, Pennsylvania
+5384	11.45		29		0.5386329866270431	true	Brookhaven, West Virginia
+11002	9.71		73		0.663515724413743	true	Brooklyn, Ohio
+836	51.71		6		0.7177033492822966	true	Brooklyn, Illinois
+1184	11.33		19		1.6047297297297296	true	Brookneal, Virginia
+13743	5.78		79		0.5748380993960561	true	Brookside, Delaware
+1526	3.79		8		0.5242463958060288	true	Brookston, Indiana
+1193	14.47		10		0.8382229673093042	true	Brown City, Michigan
+2016	33.71		24		1.1904761904761905	true	Brownlee Park, Michigan
+10016	21.3		65		0.6489616613418531	true	Brownsville, Tennessee
+16410	35.79		199		1.2126751980499695	true	Brownsville, Florida
+15794	31.51		82		0.5191845004432063	true	Brunswick, Georgia
+1137	8.09		9		0.79155672823219	true	Brush Fork, West Virginia
+174	0.0		1		0.5747126436781609	true	Brutus, Michigan
+252	12.5		2		0.7936507936507936	true	Bryant, Indiana
+567	8.45		3		0.5291005291005291	true	Buchtel, Ohio
+157	0.0		1		0.6369426751592357	true	Buck Creek, Indiana
+2724	18.72		33		1.2114537444933922	true	Buckeye Lake, Ohio
+5650	18.73		29		0.5132743362831859	true	Buckhannon, West Virginia
+839	21.89		7		0.834326579261025	true	Bucksport, South Carolina
+12045	16.66		74		0.614362806143628	true	Bucyrus, Ohio
+6666	27.22		42		0.6300630063006301	true	Buena Vista, Virginia
+6192	36.58		125		2.018733850129199	true	Buena Vista, Michigan
+213	32.5		41		19.248826291079812	true	Buenaventura Lakes, Florida
+1544	21.04		19		1.2305699481865284	true	Buffalo, South Carolina
+332	0.0		3		0.9036144578313252	true	Buffington, Pennsylvania
+13244	16.0		74		0.558743581999396	true	Buford, Georgia
+522	46.9		3		0.5747126436781609	true	Bull Creek, Missouri
+14781	9.09		110		0.7441986333806915	true	Bull Run, Virginia
+603	18.79		8		1.3266998341625207	true	Bunker Hill, Indiana
+1342	33.44		8		0.5961251862891207	true	Bunker Hill, Oregon
+365	9.0		2		0.547945205479452	true	Bunn, North Carolina
+1388	7.8		8		0.5763688760806917	true	Burgettstown, Pennsylvania
+52241	17.8		783		1.4988227637296376	true	Burlington, North Carolina
+2753	13.57		23		0.8354522339266255	true	Burnettown, South Carolina
+29223	18.06		162		0.554357868801971	true	Burton, Michigan
+6266	7.39		49		0.7819980849026492	true	Burton, South Carolina
+2870	18.35		19		0.662020905923345	true	Butler, Indiana
+7672	13.16		51		0.664754953076121	true	Butner, North Carolina
+11592	7.73		73		0.6297446514837819	true	Byram, Mississippi
+3889	30.64		37		0.9514013885317563	true	Bystrom, California
+3633	29.54		20		0.5505092210294523	true	Cabazon, California
+14740	34.95		80		0.5427408412483039	true	Cahokia, Illinois
+2752	6.81		16		0.5813953488372093	true	Cajah's Mountain, North Carolina
+2576	8.24		22		0.8540372670807453	true	Calera, Oklahoma
+15948	21.57		160		1.0032605969400552	true	Calhoun, Georgia
+1733	17.59		20		1.154068090017311	true	Calhoun Falls, South Carolina
+13201	15.93		86		0.6514657980456027	true	California City, California
+14760	11.39		108		0.7317073170731708	true	Callaway, Florida
+37184	19.17		194		0.5217297762478484	true	Calumet City, Illinois
+1289	12.43		11		0.8533747090768037	true	Calverton Park, Missouri
+287	15.71		2		0.6968641114982579	true	Cameron, North Carolina
+8075	24.26		58		0.718266253869969	true	Campbell, Ohio
+10983	18.53		88		0.8012382773377038	true	Campbellsville, Kentucky
+609	27.34		7		1.1494252873563218	true	Camptown, Virginia
+22835	24.85		442		1.9356251368513246	true	Candler-McAfee, Georgia
+13413	20.83		103		0.767911727428614	true	Canton, Mississippi
+72463	27.41		1211		1.6711977146957757	true	Canton, Ohio
+10031	6.0		58		0.5782075565746188	true	Cape Canaveral, Florida
+143	0.0		1		0.6993006993006993	true	Cape Meares, Oregon
+89	10.71		1		1.1235955056179776	true	Capron, Virginia
+8773	16.51		48		0.5471332497435313	true	Carbondale, Pennsylvania
+2447	8.51		16		0.6538618716796076	true	Carleton, Michigan
+5024	5.45		34		0.6767515923566879	true	Carlisle, Ohio
+360	7.32		2		0.5555555555555556	true	Carmichaels, Pennsylvania
+5970	8.56		39		0.6532663316582915	true	Carolina Beach, North Carolina
+20639	8.53		114		0.5523523426522603	true	Carrboro, North Carolina
+25515	17.92		493		1.932196747011562	true	Carrollton, Georgia
+269	0.0		2		0.7434944237918215	true	Carrsville, Virginia
+3771	9.43		29		0.7690267833465925	true	Carter Lake, Iowa
+19964	12.23		244		1.2221999599278701	true	Cartersville, Georgia
+49796	12.47		362		0.726966021367178	true	Casa Grande, Arizona
+953	24.64		6		0.6295907660020986	true	Castle Hayne, North Carolina
+3368	29.39		52		1.5439429928741093	true	Castle Point, Missouri
+387	1.59		2		0.516795865633075	true	Caswell Beach, North Carolina
+1473	20.35		9		0.6109979633401221	true	Catawissa, Pennsylvania
+7406	9.63		41		0.5536051849851471	true	Catoosa, Oklahoma
+2210	23.43		12		0.5429864253393665	true	Cave City, Kentucky
+1355	18.89		9		0.6642066420664207	true	Cave Spring, Georgia
+13554	14.01		166		1.22473070680242	true	Cayce, South Carolina
+391	15.22		3		0.7672634271099744	true	Cecil, Georgia
+3313	14.29		27		0.8149713250830063	true	Cedar Grove, Florida
+3570	22.33		20		0.5602240896358543	true	Cedar Springs, Michigan
+9781	25.37		74		0.7565688579899805	true	Cedartown, Georgia
+380	14.16		2		0.5263157894736842	true	Celeryville, Ohio
+8306	16.21		61		0.7344088610642909	true	Center Line, Michigan
+69	0.0		1		1.4492753623188406	true	Centerville, Ohio
+6806	5.73		124		1.821921833676168	true	Centerville, South Carolina
+7519	11.26		87		1.1570687591435032	true	Centerville, Georgia
+2258	24.27		13		0.5757307351638619	true	Central, Tennessee
+5160	15.99		51		0.9883720930232558	true	Central, South Carolina
+19378	31.18		182		0.9392094127360924	true	Central Falls, Rhode Island
+5142	48.4		119		2.3142746013224427	true	Centreville, Illinois
+20519	19.77		122		0.5945708855207369	true	Chambersburg, Pennsylvania
+250202	7.31		1548		0.6187000903270158	true	Chandler, Arizona
+1483	4.39		24		1.6183412002697235	true	Charlack, Missouri
+4062	20.47		78		1.9202363367799113	true	Charleroi, Pennsylvania
+5587	7.73		48		0.8591372829783426	true	Charles Town, West Virginia
+127694	10.66		1546		1.2107068460538475	true	Charleston, South Carolina
+50566	14.18		518		1.0244037495550369	true	Charleston, West Virginia
+7906	13.05		45		0.5691879585125221	true	Charlestown, Indiana
+2523	12.85		13		0.5152596115735236	true	Charlevoix, Michigan
+792137	13.17		9101		1.148917422112589	true	Charlotte, North Carolina
+4297	7.88		38		0.8843379101698859	true	Chatsworth, Georgia
+3625	14.81		21		0.5793103448275861	true	Chattanooga Valley, Georgia
+4783	29.03		28		0.5854066485469371	true	Cheboygan, Michigan
+37581	17.86		206		0.5481493307788511	true	Chelsea, Massachusetts
+1948	22.22		13		0.6673511293634496	true	Chelsea, Oklahoma
+5800	22.89		90		1.5517241379310345	true	Cheraw, South Carolina
+18089	7.38		200		1.1056443142241141	true	Cherry Hill, Virginia
+230601	8.13		1930		0.8369434651194054	true	Chesapeake, Virginia
+1544	12.98		12		0.7772020725388601	true	Chesapeake, West Virginia
+891	10.95		7		0.7856341189674524	true	Chesapeake, Ohio
+5527	37.41		165		2.9853446716120864	true	Chester, South Carolina
+21927	5.35		188		0.8573904318876271	true	Chester, Virginia
+1410	30.64		9		0.6382978723404255	true	Chesterfield, South Carolina
+169	22.64		1		0.591715976331361	true	Chestnut, Illinois
+1219	9.12		13		1.0664479081214109	true	Cheswold, Delaware
+8327	23.28		66		0.7926023778071334	true	Cheviot, Ohio
+16284	15.11		105		0.6448047162859248	true	Chickasha, Oklahoma
+37150	10.2		225		0.6056527590847914	true	Chillum, Maryland
+1345	17.3		7		0.5204460966542751	true	China Spring, Texas
+21623	7.3		130		0.6012116727558618	true	Christiansburg, Virginia
+16746	4.08		87		0.5195270512361161	true	Cimarron Hills, Colorado
+297397	24.76		4174		1.403511131585053	true	Cincinnati, Ohio
+348	21.67		2		0.5747126436781609	true	Cinco Bayou, Florida
+13706	15.13		72		0.5253173792499635	true	Circleville, Ohio
+113	0.0		2		1.7699115044247788	true	Clacks Canyon, Arizona
+378	31.37		2		0.5291005291005291	true	Clallam Bay, Washington
+3042	23.93		17		0.5588428665351742	true	Clare, Michigan
+13076	8.01		136		1.0400734169470787	true	Claremont, New Hampshire
+583	8.05		6		1.0291595197255576	true	Clarks Hill, Indiana
+16347	14.3		168		1.0277115066984768	true	Clarksburg, West Virginia
+17314	29.59		135		0.7797158368949982	true	Clarksdale, Mississippi
+592	38.93		3		0.5067567567567568	true	Clarksville, Ohio
+3204	25.45		21		0.6554307116104869	true	Clarksville, Texas
+143618	13.65		1038		0.7227506301438538	true	Clarksville, Tennessee
+21627	7.59		217		1.0033754103666712	true	Clarksville, Indiana
+768	12.9		5		0.6510416666666667	true	Clarksville City, Texas
+671	29.47		10		1.4903129657228018	true	Clarkton, North Carolina
+607	19.08		6		0.9884678747940692	true	Clay, West Virginia
+1457	24.21		8		0.5490734385724091	true	Claycomo, Missouri
+9060	10.72		69		0.7615894039735099	true	Claymont, Delaware
+17869	4.72		104		0.582013543007443	true	Clayton, North Carolina
+2068	15.93		12		0.5802707930367506	true	Clayton, Georgia
+159	0.0		1		0.628930817610063	true	Clayville, Rhode Island
+15097	29.91		101		0.6690070875008279	true	Clearlake, California
+1651	22.55		15		0.9085402786190186	true	Clearlake Oaks, California
+110381	11.01		585		0.5299825151067665	true	Clearwater, Florida
+4497	34.79		57		1.267511674449633	true	Clearwater, South Carolina
+42895	20.2		317		0.7390138710805455	true	Cleveland, Tennessee
+2881	14.84		17		0.5900728913571677	true	Cleveland, Florida
+3689	11.07		34		0.9216589861751152	true	Cleveland, Georgia
+390584	31.39		4483		1.147768469778588	true	Cleveland, Ohio
+3839	23.52		23		0.5991143526960145	true	Clifton Forge, Virginia
+6658	8.27		37		0.5557224391709222	true	Clifton Heights, Pennsylvania
+26413	14.2		155		0.5868322416991633	true	Clinton, Iowa
+25475	8.87		155		0.6084396467124632	true	Clinton, Mississippi
+1076	4.01		15		1.3940520446096654	true	Clinton, Maine
+8561	30.76		195		2.277771288400888	true	Clinton, South Carolina
+8750	21.32		68		0.7771428571428571	true	Clinton, North Carolina
+665	18.54		5		0.7518796992481203	true	Clio, South Carolina
+2582	19.1		20		0.774593338497289	true	Clio, Michigan
+3415	11.12		19		0.5563689604685212	true	Cloverdale, Virginia
+39466	18.66		231		0.5853139411138701	true	Clovis, New Mexico
+1311	15.71		7		0.5339435545385203	true	Clyde, North Carolina
+1061	20.48		7		0.6597549481621112	true	Coal Fork, West Virginia
+2066	16.9		16		0.7744433688286544	true	Coal Grove, Ohio
+542	31.2		4		0.7380073800738007	true	Coalville, Iowa
+13152	30.13		94		0.7147201946472019	true	Coatesville, Pennsylvania
+17339	25.38		159		0.9170079012630487	true	Cocoa, Florida
+4910	28.3		55		1.120162932790224	true	Cocoa West, Florida
+235	0.0		3		1.276595744680851	true	Coinjock, North Carolina
+142	13.95		1		0.7042253521126761	true	Cokesbury, South Carolina
+1251	13.61		22		1.7585931254996003	true	Coldwater, Mississippi
+1286	12.12		11		0.8553654743390358	true	Colebrook, New Hampshire
+191	13.95		2		1.0471204188481675	true	Colerain, North Carolina
+14026	36.44		553		3.9426778839298446	true	College Park, Georgia
+2557	21.39		17		0.6648416112631991	true	Collins, Mississippi
+7507	16.28		77		1.0257093379512454	true	Collinsville, Virginia
+1600	9.36		14		0.8750000000000001	true	Coloma, Michigan
+3556	8.87		26		0.7311586051743533	true	Colonial Beach, Virginia
+3512	2.63		21		0.5979498861047836	true	Colonial Heights, Tennessee
+17515	8.18		237		1.3531258920924922	true	Colonial Heights, Virginia
+442040	9.47		3229		0.7304768799203691	true	Colorado Springs, Colorado
+53566	19.31		458		0.8550199753575028	true	Colton, California
+2597	7.03		13		0.5005775895263765	true	Columbia, California
+6367	33.22		38		0.596827391236061	true	Columbia, Mississippi
+131958	17.9		2225		1.686142560511678	true	Columbia, South Carolina
+23360	26.41		162		0.6934931506849316	true	Columbus, Mississippi
+824663	16.7		9020		1.0937801259423545	true	Columbus, Ohio
+5921	25.25		76		1.2835669650396893	true	Combee Settlement, Florida
+6575	21.52		59		0.897338403041825	true	Commerce, Georgia
+5140	9.7		26		0.5058365758754864	true	Comstock Northwest, Michigan
+10431	19.77		60		0.5752085130859937	true	Comstock Park, Michigan
+82	42.86		1		1.2195121951219512	true	Conchas Dam, New Mexico
+83903	9.21		695		0.8283374849528622	true	Concord, North Carolina
+5125	31.63		80		1.5609756097560976	true	Conley, Georgia
+63521	14.88		337		0.530533209489775	true	Conroe, Texas
+19356	24.12		225		1.1624302541847489	true	Conway, South Carolina
+728	32.6		4		0.5494505494505495	true	Conway, North Carolina
+327	21.52		2		0.6116207951070336	true	Conway, Michigan
+15577	26.44		286		1.836040315850292	true	Conyers, Georgia
+1167	8.47		12		1.0282776349614395	true	Cool Valley, Missouri
+839	17.03		5		0.5959475566150179	true	Cooleemee, North Carolina
+11973	20.59		60		0.5011275369581559	true	Coolidge, Arizona
+4329	14.69		34		0.7854007854007854	true	Coopersville, Michigan
+33005	9.37		214		0.6483866080896834	true	Copperas Cove, Texas
+9842	7.88		89		0.9042877463930096	true	Coral Hills, Maryland
+14839	18.58		78		0.5256418896152032	true	Corinth, Mississippi
+353	12.37		2		0.56657223796034	true	Cornell, Illinois
+132	19.05		1		0.7575757575757576	true	Corona, New Mexico
+165	0.0		1		0.6060606060606061	true	Coronaca, South Carolina
+316513	13.41		2179		0.6884393374047827	true	Corpus Christi, Texas
+23945	18.76		137		0.5721444978074754	true	Corsicana, Texas
+3415	21.11		29		0.8491947291361639	true	Corunna, Michigan
+11153	11.59		64		0.5738366358827222	true	Coshocton, Ohio
+853	5.83		8		0.9378663540445485	true	Cottageville, South Carolina
+634	12.42		4		0.6309148264984227	true	Coulee City, Washington
+62309	11.74		348		0.558506796770932	true	Council Bluffs, Iowa
+1398	42.56		15		1.0729613733905579	true	Country Club Hills, Missouri
+2513	4.73		35		1.392757660167131	true	County Center, Virginia
+13507	18.86		162		1.1993781002443178	true	Covington, Georgia
+9036	29.43		94		1.040283311199646	true	Covington, Tennessee
+708	14.04		5		0.7062146892655368	true	Coward, South Carolina
+1702	20.09		16		0.9400705052878966	true	Cowpens, South Carolina
+948	16.3		7		0.7383966244725738	true	Crawford, Georgia
+15982	18.94		123		0.7696158177950194	true	Crawfordsville, Indiana
+20479	9.59		127		0.6201474681380926	true	Crest Hill, Illinois
+9240	10.91		63		0.6818181818181818	true	Crestline, California
+294	26.09		2		0.6802721088435374	true	Creswell, North Carolina
+2746	27.29		14		0.5098324836125273	true	Crewe, Virginia
+1712	26.32		10		0.5841121495327103	true	Cricket, North Carolina
+6616	31.74		44		0.6650544135429262	true	Crockett, Texas
+478	15.97		7		1.4644351464435146	true	Cromwell, Indiana
+10567	9.68		60		0.5678054320052995	true	Cross Lanes, West Virginia
+2578	13.22		22		0.8533747090768037	true	Croswell, Michigan
+6452	30.74		52		0.805951642901426	true	Crystal Lake, Florida
+1377	27.4		9		0.6535947712418301	true	Crystal Lakes, Ohio
+3377	30.96		18		0.5330174711282203	true	Cuba, Missouri
+5534	45.99		44		0.7950849295265631	true	Cullowhee, North Carolina
+5316	9.18		71		1.3355906696764486	true	Cumberland, Indiana
+10532	7.66		77		0.7311052031902773	true	D'Iberville, Mississippi
+6655	27.29		35		0.5259203606311045	true	Dade City, Florida
+3049	5.66		20		0.6559527714004592	true	Dahlgren, Virginia
+101	100.0		1		0.9900990099009901	true	Dailey, West Virginia
+1138	16.48		6		0.5272407732864675	true	Dale, Pennsylvania
+12363	25.55		189		1.528755156515409	true	Dallas, Georgia
+33496	19.41		222		0.6627657033675662	true	Dalton, Georgia
+30878	20.63		237		0.7675367575620182	true	Dania Beach, Florida
+32337	24.1		208		0.643226025914587	true	Danville, Illinois
+42450	18.83		649		1.5288574793875147	true	Danville, Virginia
+6212	29.14		175		2.8171281390856406	true	Darlington, South Carolina
+1045	7.01		8		0.7655502392344498	true	Dauphin, Pennsylvania
+101863	12.01		770		0.75591726141975	true	Davenport, Iowa
+5029	14.16		40		0.7953867568104992	true	Davison, Michigan
+2737	31.11		24		0.8768724881256851	true	Dawson Springs, Kentucky
+5381	21.56		31		0.5761010964504739	true	Dayton, Kentucky
+141368	29.8		1854		1.3114707713202423	true	Dayton, Ohio
+62726	21.39		706		1.1255300832190798	true	Daytona Beach, Florida
+4294	6.5		22		0.5123428039124359	true	Daytona Beach Shores, Florida
+56656	17.16		502		0.8860491386613951	true	Dearborn Heights, Michigan
+74654	18.78		439		0.5880461864066225	true	Decatur, Illinois
+850	25.57		7		0.823529411764706	true	Deckerville, Michigan
+21898	13.55		249		1.1370901452187416	true	Del City, Oklahoma
+826	50.34		10		1.2106537530266344	true	DeLand Southwest, Florida
+5011	16.46		48		0.9578926362003591	true	Dellwood, Missouri
+1784	16.71		11		0.6165919282511211	true	Delmar, Delaware
+2874	11.18		16		0.5567153792623522	true	Delphi, Indiana
+632	13.55		6		0.949367088607595	true	Delta, Pennsylvania
+22846	15.78		170		0.744112754968047	true	Denison, Texas
+3425	37.85		27		0.7883211678832116	true	Denmark, South Carolina
+2888	10.78		21		0.7271468144044322	true	Dennis Port, Massachusetts
+14151	15.82		769		5.434244929686948	true	Dentsville, South Carolina
+649654	12.84		3566		0.5489075723385063	true	Denver, Colorado
+208020	15.19		1118		0.5374483222767042	true	Des Moines, Iowa
+119	0.0		1		0.8403361344537815	true	Detroit, Oregon
+690074	35.46		6664		0.9656935343166094	true	Detroit, Michigan
+2007	5.86		14		0.6975585450921774	true	Detroit Beach, Michigan
+19355	7.79		137		0.7078274347713769	true	Dickinson, Texas
+6036	11.0		32		0.5301524188204109	true	District Heights, Maryland
+3626	37.11		20		0.5515719801434087	true	Dixmoor, Illinois
+858	24.11		14		1.6317016317016315	true	Dobbins Heights, North Carolina
+1569	25.0		8		0.5098789037603569	true	Dobson, North Carolina
+335	26.25		2		0.5970149253731344	true	Donalds, South Carolina
+4697	22.35		52		1.1070896316797956	true	Donora, Pennsylvania
+31917	17.33		439		1.3754425541247612	true	Douglasville, Georgia
+5600	7.77		58		1.0357142857142856	true	Dove Valley, Colorado
+37144	15.18		497		1.3380357527460693	true	Dover, Delaware
+394	0.0		2		0.5076142131979695	true	Dowling, Michigan
+507	0.0		3		0.591715976331361	true	Doyle, Texas
+1805	24.34		35		1.9390581717451523	true	Drexel, Ohio
+16181	30.8		180		1.1124157963043075	true	Dublin, Georgia
+534	1.86		3		0.5617977528089888	true	Duck, North Carolina
+411	24.21		4		0.9732360097323601	true	Ducktown, Tennessee
+28294	13.72		210		0.7422068283028204	true	Duluth, Georgia
+8701	23.74		215		2.4709803470865417	true	Dumbarton, Virginia
+5158	9.55		56		1.0856921287320667	true	Dumfries, Virginia
+7798	10.74		54		0.6924852526288792	true	Dunbar, West Virginia
+1598	10.61		9		0.5632040050062578	true	Duncannon, Pennsylvania
+378	10.75		2		0.5291005291005291	true	Dunlevy, Pennsylvania
+9654	21.79		65		0.6732960430909467	true	Dunn, North Carolina
+47727	7.1		281		0.5887652691348713	true	Dunwoody, Georgia
+5556	36.81		35		0.6299496040316775	true	Duquesne, Pennsylvania
+3369	16.37		24		0.7123775601068566	true	Durand, Michigan
+16767	20.27		228		1.3598139202003936	true	Durant, Oklahoma
+246084	13.68		2881		1.170738447034346	true	Durham, North Carolina
+16932	18.12		86		0.5079140089770848	true	Dyersburg, Tennessee
+124	41.3		1		0.8064516129032258	true	Eagle Rock, Missouri
+20374	10.26		208		1.0209090016687936	true	Easley, South Carolina
+29178	34.61		217		0.7437110151483994	true	East Chicago, Indiana
+17519	35.27		495		2.8255037387978765	true	East Cleveland, Ohio
+1612	43.81		24		1.488833746898263	true	East Cleveland, Tennessee
+2470	29.3		37		1.4979757085020242	true	East Dublin, Georgia
+3274	26.39		158		4.825901038485034	true	East Gaffney, South Carolina
+1416	28.57		21		1.4830508474576272	true	East Griffin, Georgia
+51137	12.7		458		0.8956332987856152	true	East Hartford, Connecticut
+14733	8.15		230		1.5611212923369306	true	East Highland Park, Virginia
+25373	20.45		353		1.391242659519962	true	East Lake-Orient Park, Florida
+48669	12.63		244		0.5013458258850604	true	East Lansing, Michigan
+367	20.45		2		0.544959128065395	true	East Laurinburg, North Carolina
+1171	15.87		11		0.9393680614859093	true	East Lexington, Virginia
+1495	0.0		13		0.8695652173913043	true	East Newnan, Georgia
+1827	25.11		14		0.7662835249042145	true	East Pittsburgh, Pennsylvania
+35357	23.66		886		2.505868710580649	true	East Point, Georgia
+3921	34.37		20		0.510073960724305	true	East Rockingham, North Carolina
+1453	48.51		21		1.445285615966965	true	East Spencer, North Carolina
+26689	43.53		293		1.097830566900221	true	East St. Louis, Illinois
+765	44.21		9		1.1764705882352942	true	Eastover, South Carolina
+6254	9.97		73		1.1672529581068116	true	Eastwood, Michigan
+8294	15.62		51		0.61490233904027	true	Eaton, Ohio
+5221	14.65		31		0.5937559854434017	true	Eaton Rapids, Michigan
+6486	20.34		35		0.5396238051187172	true	Eatonton, Georgia
+2299	35.93		26		1.1309264897781643	true	Eatonville, Florida
+118	0.0		1		0.847457627118644	true	Eccles, West Virginia
+9338	30.85		141		1.509959306061255	true	Ecorse, Michigan
+104	20.83		1		0.9615384615384616	true	Eden, Mississippi
+4942	32.59		25		0.5058680696074463	true	Edenton, North Carolina
+6257	6.63		107		1.7100847051302541	true	Edgemoor, Delaware
+1445	9.84		11		0.7612456747404844	true	Edmonston, Maryland
+898	15.95		10		1.1135857461024499	true	Edmundson, Missouri
+4773	23.53		43		0.9009009009009009	true	Edwardsville, Pennsylvania
+4372	7.35		36		0.8234217749313815	true	Edwardsville, Kansas
+37408	19.96		220		0.588109495295124	true	Egypt Lake-Leto, Florida
+33010	16.63		183		0.5543774613753408	true	El Mirage, Arizona
+4474	34.12		33		0.737594993294591	true	Elberton, Georgia
+119	0.0		1		0.8403361344537815	true	Eldora, Colorado
+2781	28.47		39		1.4023732470334414	true	Elgin, South Carolina
+14058	18.46		73		0.5192772798406601	true	Elizabethton, Tennessee
+3610	32.84		25		0.6925207756232686	true	Elizabethtown, North Carolina
+29657	13.65		150		0.5057827831540614	true	Elizabethtown, Kentucky
+120	6.45		1		0.8333333333333334	true	Elk Garden, West Virginia
+52354	23.62		788		1.5051380983305955	true	Elkhart, Indiana
+7244	13.37		102		1.4080618442849255	true	Elkins, West Virginia
+168	52.63		2		1.1904761904761905	true	Elko, South Carolina
+2779	6.49		15		0.5397625044980209	true	Elkton, Virginia
+363	22.22		4		1.1019283746556474	true	Ellendale, Delaware
+703	4.82		4		0.5689900426742532	true	Ellicott, Colorado
+4552	4.85		63		1.3840070298769773	true	Elmwood, Louisiana
+1951	34.07		38		1.9477191184008202	true	Elmwood Place, Ohio
+3635	18.51		28		0.7702888583218707	true	Elroy, North Carolina
+1080	5.71		6		0.5555555555555556	true	Elsie, Michigan
+6154	6.33		55		0.8937276568085798	true	Elsmere, Delaware
+1017	18.01		6		0.5899705014749262	true	Emory, Texas
+5672	26.71		91		1.6043723554301832	true	Emporia, Virginia
+2426	39.06		14		0.5770816158285244	true	Enfield, North Carolina
+31877	13.65		250		0.7842645167362048	true	Englewood, Colorado
+50685	10.37		285		0.5622965374371115	true	Enid, Oklahoma
+3973	2.27		39		0.9816259753335012	true	Enon, Virginia
+840	6.54		5		0.5952380952380952	true	Enterprise, West Virginia
+100678	20.56		695		0.6903196328890124	true	Erie, Pennsylvania
+3432	9.8		24		0.6993006993006993	true	Etna, Pennsylvania
+3493	22.76		18		0.5153163469796735	true	Etowah, Tennessee
+85	13.64		1		1.1764705882352942	true	Etowah, Oklahoma
+5696	7.3		71		1.2464887640449438	true	Ettrick, Virginia
+48105	17.6		885		1.8397256002494544	true	Euclid, Ohio
+144	5.71		1		0.6944444444444444	true	Eureka, North Carolina
+1451	23.71		28		1.9297036526533424	true	Eureka Mill, South Carolina
+2836	11.17		18		0.6346967559943583	true	Evansville, Wyoming
+1515	39.08		10		0.6600660066006601	true	Evart, Michigan
+6279	20.95		36		0.5733397037744864	true	Everman, Texas
+5625	3.63		50		0.8888888888888888	true	Exeter, Pennsylvania
+1510	32.23		8		0.5298013245033113	true	Exmore, Virginia
+2557	42.74		36		1.4078998826750098	true	Experiment, Georgia
+859	21.03		5		0.5820721769499418	true	Fair Bluff, North Carolina
+9109	37.84		166		1.8223734767812054	true	Fair Oaks, Georgia
+7706	16.38		191		2.4785881131585774	true	Fair Plain, Michigan
+480	34.62		3		0.625	true	Fair Play, Missouri
+33251	17.62		187		0.5623891010796668	true	Fairborn, Ohio
+13697	11.88		183		1.3360589910199314	true	Fairburn, Georgia
+1908	27.86		18		0.9433962264150944	true	Fairfax, South Carolina
+3105	25.69		17		0.5475040257648953	true	Fairfield, Maine
+1817	17.16		10		0.5503577325261421	true	Fairlea, West Virginia
+18773	19.52		182		0.9694774410056997	true	Fairmont, West Virginia
+3100	13.17		28		0.903225806451613	true	Fairport Harbor, Ohio
+141	0.0		1		0.7092198581560284	true	Fairview, Virginia
+10586	18.17		80		0.7557150954090308	true	Fairview Shores, Florida
+875	10.22		5		0.5714285714285714	true	Faith, North Carolina
+59	20.0		3		5.084745762711865	true	Falkland, North Carolina
+88727	19.44		569		0.6412929547939183	true	Fall River, Massachusetts
+667	8.47		5		0.7496251874062968	true	Fallston, North Carolina
+217	5.17		2		0.9216589861751152	true	Fallston, Pennsylvania
+4630	2.86		28		0.6047516198704104	true	Falmouth, Virginia
+44865	11.57		244		0.543853783572941	true	Farmington, New Mexico
+4203	12.18		22		0.5234356412086605	true	Farmington, New Hampshire
+4755	18.44		38		0.7991587802313355	true	Farmville, North Carolina
+8355	21.99		53		0.6343506882106523	true	Farmville, Virginia
+4852	16.52		39		0.8037922506183017	true	Farrell, Pennsylvania
+1384	18.51		8		0.5780346820809248	true	Fayette, Ohio
+202521	15.36		3055		1.5084855397711843	true	Fayetteville, North Carolina
+12037	15.93		208		1.7280053169394367	true	Federal Heights, Colorado
+871	27.15		10		1.1481056257175661	true	Felicity, Ohio
+79	0.0		1		1.2658227848101267	true	Fellows, California
+1658	16.3		18		1.0856453558504222	true	Felton, Delaware
+21120	18.69		270		1.278409090909091	true	Ferguson, Missouri
+8161	9.98		62		0.7597108197524813	true	Fern Park, Florida
+18612	4.75		185		0.9939823769611004	true	Ferndale, Maryland
+403	26.76		6		1.488833746898263	true	Ferrelview, Missouri
+891	4.82		5		0.5611672278338945	true	Fincastle, Kentucky
+1315	6.87		7		0.532319391634981	true	Fincastle, Tennessee
+40462	14.52		234		0.5783203993870792	true	Fitchburg, Massachusetts
+812	25.93		8		0.9852216748768473	true	Five Points, Florida
+57	0.0		1		1.7543859649122806	true	Flat Rock, Ohio
+843	21.33		13		1.542111506524318	true	Flordell Hills, Missouri
+38000	14.91		1097		2.886842105263158	true	Florence, South Carolina
+12024	43.59		97		0.8067198935462409	true	Florida City, Florida
+52356	6.44		318		0.6073802429520971	true	Florissant, Missouri
+6216	7.85		33		0.5308880308880308	true	Flowery Branch, Georgia
+16078	19.17		134		0.833436994651076	true	Flowing Wells, Arizona
+6630	18.22		47		0.7088989441930619	true	Folcroft, Pennsylvania
+2934	9.0		15		0.5112474437627812	true	Follansbee, West Virginia
+2715	6.55		16		0.5893186003683241	true	Folly Beach, South Carolina
+203677	13.85		1083		0.5317242496698203	true	Fontana, California
+33090	20.64		223		0.6739196131761861	true	Foothill Farms, California
+2780	34.24		14		0.5035971223021583	true	Ford Heights, Illinois
+10545	7.9		106		1.0052157420578474	true	Forest Acres, South Carolina
+7359	25.63		73		0.9919826063323821	true	Forest City, North Carolina
+18667	12.22		108		0.5785610971232656	true	Forest Park, Ohio
+18953	29.1		289		1.5248245660317628	true	Forest Park, Georgia
+5111	3.91		41		0.8021913519859126	true	Forestbrook, South Carolina
+11298	10.4		114		1.009028146574615	true	Forestville, Maryland
+1454	4.69		8		0.5502063273727648	true	Fort Ashby, West Virginia
+123	0.0		1		0.8130081300813009	true	Fort Hill, Oregon
+173570	15.43		1408		0.8112000921818286	true	Fort Lauderdale, Florida
+940	17.03		10		1.0638297872340425	true	Fort Lawn, South Carolina
+68472	18.08		378		0.5520504731861199	true	Fort Myers, Florida
+9547	14.51		70		0.7332146223944694	true	Fort Oglethorpe, Georgia
+9192	37.23		71		0.7724107919930374	true	Fort Valley, Georgia
+257059	14.93		3049		1.1861090255544446	true	Fort Wayne, Indiana
+796614	14.88		5741		0.7206752580296103	true	Fort Worth, Texas
+13187	27.49		82		0.6218245241525745	true	Fostoria, Ohio
+450	34.51		3		0.6666666666666667	true	Fountain, North Carolina
+8399	12.04		51		0.6072151446600785	true	Fountain Inn, South Carolina
+1900	25.0		12		0.631578947368421	true	Four Oaks, North Carolina
+2269	8.72		16		0.7051564565888057	true	Fowler, Indiana
+4390	16.21		22		0.5011389521640092	true	Fox Farm-College, Wyoming
+5326	1.27		28		0.5257228689447991	true	Foxborough, Massachusetts
+27535	16.04		215		0.7808244053023425	true	Frankfort, Kentucky
+16467	12.97		168		1.0202222627072326	true	Frankfort, Indiana
+8643	19.8		77		0.8908943653823904	true	Franklin, Kentucky
+8457	14.04		117		1.3834693153600568	true	Franklin, Virginia
+3910	26.91		25		0.639386189258312	true	Franklin, North Carolina
+8460	16.63		63		0.7446808510638299	true	Franklin, New Hampshire
+890	33.63		12		1.348314606741573	true	Franklin, Georgia
+97	0.0		1		1.0309278350515463	true	Franklin, California
+11840	12.57		103		0.8699324324324323	true	Franklin, Ohio
+958	40.0		33		3.4446764091858038	true	Franklin Park, Florida
+924	15.38		5		0.5411255411255411	true	Franklin Springs, Georgia
+2319	29.9		12		0.517464424320828	true	Franklinton, North Carolina
+1064	26.26		10		0.9398496240601504	true	Franklinville, North Carolina
+27395	12.56		281		1.0257346231064062	true	Fredericksburg, Virginia
+192	5.56		1		0.5208333333333333	true	Frederika, Iowa
+24973	16.21		193		0.7728346614343491	true	Freeport, Illinois
+16484	23.81		95		0.5763164280514438	true	Fremont, Ohio
+1147	20.53		8		0.6974716652136007	true	Fremont, North Carolina
+4051	12.42		21		0.5183905208590471	true	Fremont, Michigan
+244	20.75		2		0.819672131147541	true	Friant, California
+14846	10.04		136		0.9160716691364676	true	Front Royal, Virginia
+5725	37.72		45		0.7860262008733625	true	Fruitridge Pocket, California
+5064	13.54		28		0.5529225908372828	true	Fussels Corner, Florida
+2143	14.94		11		0.5132991133924405	true	Gadsden, South Carolina
+12562	22.99		390		3.1046011781563445	true	Gaffney, South Carolina
+37115	25.09		304		0.8190758453455476	true	Gainesville, Georgia
+1953	24.47		38		1.9457245263696878	true	Galesburg, Michigan
+562	15.71		4		0.7117437722419928	true	Galien, Michigan
+32518	10.31		163		0.5012608401500708	true	Gallatin, Tennessee
+3674	27.04		28		0.7621121393576483	true	Gallipolis, Ohio
+48971	17.9		301		0.6146494864307448	true	Galveston, Texas
+3986	14.68		27		0.6773707977922729	true	Gamewell, North Carolina
+14693	24.82		86		0.5853127339549445	true	Gantt, South Carolina
+8966	25.12		126		1.4053089449029668	true	Garden City, Georgia
+9246	7.59		53		0.573220852260437	true	Garden City, South Carolina
+198	12.5		1		0.5050505050505051	true	Garden Prairie, Illinois
+10908	24.67		259		2.3744041070773747	true	Gardere, Louisiana
+5697	14.57		39		0.6845708267509215	true	Gardiner, Maine
+782	9.79		4		0.5115089514066496	true	Garibaldi, Oregon
+27160	8.2		158		0.5817378497790869	true	Garner, North Carolina
+6552	17.09		59		0.9004884004884004	true	Garrett, Indiana
+78483	32.09		957		1.219372348151829	true	Gary, Indiana
+1466	8.78		30		2.046384720327422	true	Gaston, South Carolina
+1038	33.65		7		0.674373795761079	true	Gaston, North Carolina
+73211	17.3		769		1.0503886028055893	true	Gastonia, North Carolina
+792	38.69		4		0.5050505050505051	true	Gates, Tennessee
+4099	4.16		23		0.561112466455233	true	Gatlinburg, Tennessee
+18563	10.42		153		0.8242202230242958	true	Gautier, Mississippi
+100	0.0		1		1.0	true	Gay, Georgia
+893	51.79		30		3.3594624860022395	true	Gayle Mill, South Carolina
+3640	13.55		26		0.7142857142857143	true	Gaylord, Michigan
+85	0.0		1		1.1764705882352942	true	Genoa, Colorado
+9079	26.83		252		2.7756360832690823	true	Georgetown, South Carolina
+12600	12.49		83		0.6587301587301587	true	Georgetown, Georgia
+516	40.0		3		0.5813953488372093	true	Gibson, North Carolina
+18070	19.4		140		0.774764803541782	true	Gibsonton, Florida
+8750	22.16		75		0.8571428571428572	true	Gifford, Florida
+187	0.0		1		0.53475935828877	true	Gilbertsville, Kentucky
+12525	46.35		155		1.2375249500998005	true	Gladeview, Florida
+6451	26.41		36		0.5580530150364285	true	Gladewater, Texas
+26309	8.83		142		0.5397392527272036	true	Gladstone, Missouri
+14640	3.09		91		0.6215846994535519	true	Glasgow, Delaware
+14224	22.67		132		0.9280089988751405	true	Glasgow, Kentucky
+5178	37.05		106		2.0471224410969486	true	Glasgow Village, Missouri
+17552	10.59		307		1.749088422971741	true	Glassmanor, Maryland
+15007	3.61		77		0.5130938895182249	true	Glen Allen, Virginia
+68550	6.56		1036		1.511305616338439	true	Glen Burnie, Maryland
+1537	14.25		8		0.520494469746259	true	Glen Dale, West Virginia
+126	0.0		1		0.7936507936507936	true	Glen Echo Park, Missouri
+1732	32.9		18		1.0392609699769053	true	Glen Lyon, Pennsylvania
+2607	20.69		17		0.6520905255082471	true	Glen Raven, North Carolina
+234844	17.19		3846		1.6376828873635265	true	Glendale, Arizona
+4744	19.62		140		2.951096121416526	true	Glendale, Colorado
+197	3.57		1		0.5076142131979695	true	Glenfield, Pennsylvania
+7159	5.89		110		1.5365274479675932	true	Glenolden, Pennsylvania
+48	50.0		1		2.083333333333333	true	Glenville, North Carolina
+2925	37.74		64		2.1880341880341883	true	Gloverville, South Carolina
+33806	19.37		245		0.7247234218777732	true	Golden Glades, Florida
+2404	9.94		24		0.9983361064891847	true	Golden Grove, South Carolina
+12603	13.3		94		0.7458541617075299	true	Goldenrod, Florida
+35952	21.42		571		1.5882287494437028	true	Goldsboro, North Carolina
+3608	13.79		34		0.9423503325942351	true	Golf Manor, Ohio
+16672	10.04		84		0.5038387715930902	true	Goodlettsville, Tennessee
+101	0.0		1		0.9900990099009901	true	Goodsprings, Nevada
+167	45.45		1		0.5988023952095809	true	Goofy Ridge, Illinois
+39408	10.21		480		1.2180267965895248	true	Goose Creek, South Carolina
+32946	18.1		264		0.801311236568931	true	Goshen, Indiana
+1454	8.61		13		0.8940852819807428	true	Grabill, Indiana
+14468	25.11		290		2.004423555432679	true	Graham, North Carolina
+8088	11.62		65		0.8036597428288822	true	Grand Blanc, Michigan
+897	14.86		6		0.6688963210702341	true	Grand Coulee, Washington
+329	3.37		2		0.60790273556231	true	Grand Lake, Colorado
+387	10.0		2		0.516795865633075	true	Grand River, Ohio
+24997	13.33		216		0.8641036924430933	true	Grandview, Missouri
+7014	1.64		67		0.955232392358141	true	Grandview Heights, Ohio
+2110	7.28		27		1.2796208530805688	true	Grandview Plaza, Kansas
+29421	13.77		150		0.5098399102681758	true	Granite City, Illinois
+2516	38.29		59		2.3449920508744038	true	Graniteville, South Carolina
+2935	5.55		19		0.6473594548551959	true	Grape Creek, Texas
+711	13.41		9		1.2658227848101267	true	Gray Court, South Carolina
+2943	1.27		15		0.509683995922528	true	Gray Summit, Missouri
+489	28.39		4		0.81799591002045	true	Grayland, Washington
+68	21.05		1		1.4705882352941175	true	Grayridge, Missouri
+787	5.48		6		0.7623888182973316	true	Great Bend, Pennsylvania
+1944	23.04		21		1.0802469135802468	true	Great Falls, South Carolina
+1977	38.09		16		0.8093070308548306	true	Green Level, North Carolina
+139	0.0		1		0.7194244604316548	true	Greenbackville, Virginia
+23827	9.47		356		1.4941033281571325	true	Greenbelt, Maryland
+151	0.0		1		0.6622516556291391	true	Greenbush, Virginia
+636	6.62		7		1.10062893081761	true	Greendale, Missouri
+279427	14.58		4948		1.7707666045156696	true	Greensboro, North Carolina
+33119	31.95		272		0.821280835774027	true	Greenville, Mississippi
+925	29.44		12		1.2972972972972971	true	Greenville, Georgia
+13081	14.54		71		0.5427719593303264	true	Greenville, Ohio
+88598	18.42		1618		1.8262263256506917	true	Greenville, North Carolina
+15734	36.75		125		0.794457861955002	true	Greenwood, Mississippi
+1289	8.51		7		0.5430566330488751	true	Greenwood, Delaware
+12908	20.13		89		0.68949488689185	true	Grenada, Mississippi
+7607	27.24		107		1.40659918496122	true	Gresham Park, Georgia
+23312	27.92		289		1.2397048730267675	true	Griffin, Georgia
+16643	7.72		269		1.6162951390975184	true	Griffith, Indiana
+2576	18.96		14		0.5434782608695652	true	Grifton, North Carolina
+2779	24.4		60		2.1590500179920835	true	Grissom AFB, Indiana
+83	33.33		1		1.2048192771084338	true	Grover, Colorado
+16373	8.3		93		0.5680083063580285	true	Groveton, Virginia
+8493	7.72		62		0.730012951842694	true	Gulf Hills, Mississippi
+6113	11.38		32		0.5234745624079831	true	Gulf Park Estates, Mississippi
+70642	21.92		1248		1.7666543982333458	true	Gulfport, Mississippi
+194	14.29		1		0.5154639175257731	true	Gumbranch, Georgia
+10871	11.45		66		0.6071198601784564	true	Guthrie, Oklahoma
+7915	10.52		53		0.6696146557169931	true	Half Moon, North Carolina
+38725	18.41		238		0.6145900581020013	true	Hallandale Beach, Florida
+43625	14.13		264		0.6051575931232092	true	Haltom City, Texas
+384	12.0		2		0.5208333333333333	true	Hamilton, North Carolina
+62359	17.2		891		1.4288234256482626	true	Hamilton, Ohio
+6525	26.69		51		0.7816091954022988	true	Hamlet, North Carolina
+78983	21.19		463		0.5862020941215198	true	Hammond, Indiana
+7188	25.44		44		0.6121313299944352	true	Hampton, Georgia
+2726	9.08		24		0.880410858400587	true	Hampton, South Carolina
+137081	12.12		2538		1.8514600856427952	true	Hampton, Virginia
+2068	12.65		35		1.6924564796905222	true	Hampton Beach, New Hampshire
+19707	8.41		529		2.684325366620998	true	Hanahan, South Carolina
+196	6.67		1		0.5102040816326531	true	Hanging Rock, Ohio
+2194	31.16		17		0.7748404740200547	true	Hanley Hills, Missouri
+363	12.36		2		0.5509641873278237	true	Hanover, Michigan
+6649	14.97		94		1.4137464280342908	true	Hapeville, Georgia
+70	0.0		1		1.4285714285714286	true	Happys Inn, Montana
+4353	16.12		60		1.3783597518952446	true	Hardeeville, South Carolina
+3539	23.76		92		2.5996044080248657	true	Hardwick, Georgia
+28199	13.6		218		0.773077059470194	true	Harker Heights, Texas
+657	25.29		13		1.97869101978691	true	Harleyville, South Carolina
+168	0.0		1		0.5952380952380952	true	Harmonsburg, Pennsylvania
+93	4.76		1		1.0752688172043012	true	Harper, Iowa
+13964	9.73		175		1.2532225723288457	true	Harper Woods, Michigan
+153	4.26		1		0.6535947712418301	true	Harrells, North Carolina
+3665	18.17		28		0.7639836289222374	true	Harrington, Delaware
+49232	26.78		417		0.8470100747481313	true	Harrisburg, Pennsylvania
+2011	29.57		11		0.5469915464942815	true	Harrison, Michigan
+2105	27.99		15		0.7125890736342043	true	Hart, Michigan
+124795	30.46		2022		1.6202572218438238	true	Hartford, Connecticut
+7851	26.94		161		2.050694179085467	true	Hartsville, South Carolina
+46762	29.59		278		0.5944998075360335	true	Hattiesburg, Mississippi
+20729	12.37		114		0.5499541704857929	true	Havelock, North Carolina
+1979	15.66		13		0.6568974229408793	true	Haverhill, Florida
+2585	18.46		21		0.8123791102514507	true	Haw River, North Carolina
+134	35.71		1		0.7462686567164178	true	Haydenville, Ohio
+1896	20.51		14		0.7383966244725738	true	Hays, North Carolina
+25686	11.03		265		1.031690415012069	true	Hazelwood, Missouri
+3942	23.63		22		0.5580923389142567	true	Hazlehurst, Mississippi
+25087	22.24		150		0.5979192410411768	true	Hazleton, Pennsylvania
+10411	9.03		57		0.5474978388243205	true	Heath, Ohio
+713	23.46		6		0.8415147265077139	true	Heath Springs, South Carolina
+283	10.67		2		0.7067137809187279	true	Hedgesville, West Virginia
+296	28.87		10		3.3783783783783785	true	Helen, Georgia
+114	0.0		1		0.8771929824561403	true	Helen, West Virginia
+82118	21.96		631		0.7684064395138703	true	Hemet, California
+460	23.26		4		0.8695652173913043	true	Hemingway, South Carolina
+170	16.28		2		1.1764705882352942	true	Henderson, West Virginia
+28889	17.41		185		0.640382152376337	true	Henderson, Kentucky
+1886	0.0		17		0.9013785790031814	true	Henderson, Georgia
+15311	29.66		325		2.1226569133302857	true	Henderson, North Carolina
+112	0.0		1		0.8928571428571428	true	Henderson Point, Mississippi
+13457	19.72		97		0.7208144460132273	true	Hendersonville, North Carolina
+1837	17.0		10		0.5443658138268916	true	Henryville, Indiana
+2197	31.19		11		0.5006827492034593	true	Hertford, North Carolina
+92309	19.52		597		0.6467408378381306	true	Hesperia, California
+40172	14.0		418		1.04052573932092	true	Hickory, North Carolina
+644	0.0		4		0.6211180124223602	true	Hickory Hills, Pennsylvania
+174	0.0		1		0.5747126436781609	true	Hico, West Virginia
+111	0.0		1		0.9009009009009009	true	High Amana, Iowa
+108031	17.28		1182		1.0941303884995974	true	High Point, North Carolina
+54314	17.91		470		0.8653385867363848	true	Highland, California
+16955	16.39		244		1.4391035092892952	true	Highland Springs, Virginia
+2173	21.34		14		0.6442705936493327	true	Hildebran, North Carolina
+15383	9.58		195		1.267633101475655	true	Hillcrest Heights, Maryland
+1005	5.26		7		0.6965174129353234	true	Hilldale, Pennsylvania
+280	11.11		2		0.7142857142857143	true	Hillrose, Colorado
+401	0.0		4		0.997506234413965	true	Hillsboro Pines, Florida
+1327	34.82		27		2.0346646571213265	true	Hillsdale, Missouri
+34287	13.59		196		0.5716452299705428	true	Hinesville, Georgia
+3681	11.55		34		0.9236620483564248	true	Hiram, Georgia
+188	15.0		1		0.5319148936170213	true	Hiwassee, Virginia
+132	5.71		1		0.7575757575757576	true	Hodges, South Carolina
+3078	27.01		39		1.267056530214425	true	Hogansville, Georgia
+4065	18.63		51		1.2546125461254614	true	Holden Heights, Florida
+20636	16.78		148		0.7171932545066874	true	Holiday, Florida
+33526	12.75		209		0.6233967666885403	true	Holland, Michigan
+2621	42.44		19		0.7249141549027089	true	Hollandale, Mississippi
+4441	25.91		25		0.5629362756136005	true	Hollister, Missouri
+11726	23.03		103		0.8783899027801467	true	Holly Hill, Florida
+7572	23.56		52		0.6867406233491812	true	Holly Springs, Mississippi
+4872	4.79		31		0.6362889983579639	true	Hollywood, South Carolina
+146791	12.35		1058		0.7207526346983126	true	Hollywood, Florida
+6419	28.29		170		2.648387599314535	true	Homeland Park, South Carolina
+1857	15.81		23		1.2385568120624662	true	Homer, Michigan
+3144	17.98		20		0.6361323155216284	true	Homestead, Pennsylvania
+1141	100.0		14		1.2269938650306749	true	Homestead Base, Florida
+530	14.29		3		0.5660377358490566	true	Hometown, West Virginia
+3649	28.2		59		1.6168813373526996	true	Honea Path, South Carolina
+4315	22.46		26		0.6025492468134416	true	Honesdale, Pennsylvania
+16123	11.94		138		0.8559201141226819	true	Hope Mills, North Carolina
+22279	16.57		685		3.074644283854751	true	Hopewell, Virginia
+2985	14.8		32		1.0720268006700169	true	Hopkins, South Carolina
+32483	18.49		189		0.5818428100852754	true	Hopkinsville, Kentucky
+26662	10.82		416		1.560273047783362	true	Horn Lake, Mississippi
+431	19.82		5		1.160092807424594	true	Horntown, Virginia
+573	17.01		3		0.5235602094240838	true	Hot Springs, North Carolina
+151	11.32		1		0.6622516556291391	true	Houghton, Iowa
+352	0.0		3		0.8522727272727272	true	Houlton, Wisconsin
+475	0.0		3		0.631578947368421	true	Houston Acres, Kentucky
+716	57.25		7		0.9776536312849162	true	Howe, Indiana
+38897	11.49		231		0.5938761344062524	true	Huber Heights, Ohio
+4710	5.23		24		0.5095541401273885	true	Huber Ridge, Ohio
+15516	15.97		105		0.6767208043310132	true	Humble, Texas
+757	43.72		7		0.9247027741083224	true	Hungry Horse, Montana
+1684	20.36		9		0.5344418052256532	true	Hunter, Tennessee
+48944	20.18		616		1.2585812356979404	true	Huntington, West Virginia
+679	6.21		4		0.5891016200294551	true	Huntington, Massachusetts
+12718	4.56		99		0.7784242805472559	true	Huntington, Virginia
+6388	9.0		34		0.5322479649342517	true	Hurricane, West Virginia
+38458	10.22		219		0.569452389619845	true	Hurst, Texas
+1799	10.65		15		0.8337965536409117	true	Hurstbourne Acres, Kentucky
+1412	8.96		12		0.84985835694051	true	Hurt, Virginia
+16106	11.23		162		1.0058363342853596	true	Hybla Valley, Virginia
+7026	32.85		46		0.6547110731568461	true	Idabel, Oklahoma
+1996	13.66		10		0.501002004008016	true	Idaho Springs, Colorado
+117192	13.4		740		0.6314424192777665	true	Independence, Missouri
+179	10.64		3		1.675977653631285	true	Indian Beach, North Carolina
+3011	0.0		31		1.0295582862836268	true	Indian Heights, Indiana
+2739	6.64		14		0.511135450894487	true	Indian Springs, Georgia
+841449	16.73		11570		1.3750090617494346	true	Indianapolis, Indiana
+10281	28.21		92		0.8948545861297539	true	Indianola, Mississippi
+3047	8.27		24		0.7876599934361668	true	Ingalls Park, Illinois
+24897	28.55		390		1.5664537896132065	true	Inkster, Michigan
+6583	12.78		38		0.5772444174388577	true	Inniswold, Louisiana
+7699	1.95		41		0.532536693077023	true	Innsbrook, Virginia
+1109	0.0		22		1.9837691614066726	true	Inverness, Colorado
+934	27.23		5		0.5353319057815845	true	Inverness, Mississippi
+2351	13.11		22		0.9357720119098255	true	Inwood, West Virginia
+6739	25.7		51		0.7567888410743434	true	Inwood, Florida
+702	0.0		4		0.5698005698005698	true	Inyokern, California
+11704	10.41		82		0.7006151742993848	true	Irmo, South Carolina
+8488	19.7		81		0.9542884071630539	true	Irondale, Georgia
+11172	17.26		116		1.038310060866452	true	Ironton, Ohio
+1518	8.26		16		1.0540184453227932	true	Irwin, South Carolina
+6517	11.89		34		0.5217124443762468	true	Ishpeming, Michigan
+2856	8.37		15		0.5252100840336135	true	Ithaca, Michigan
+182	0.0		1		0.5494505494505495	true	Ivanhoe, North Carolina
+67161	18.46		528		0.7861705454058159	true	Jackson, Tennessee
+1661	11.49		18		1.0836845273931366	true	Jackson, South Carolina
+33255	33.65		623		1.8734024958652833	true	Jackson, Michigan
+173212	25.62		2765		1.5963097244994573	true	Jackson, Mississippi
+838	8.66		5		0.5966587112171837	true	Jackson Heights, North Carolina
+178	5.08		1		0.5617977528089888	true	Jackson Lake, Colorado
+558	27.78		3		0.5376344086021506	true	Jacksonboro, South Carolina
+68315	12.34		479		0.7011637268535461	true	Jacksonville, North Carolina
+846951	13.72		7822		0.9235481155344288	true	Jacksonville, Florida
+144	0.0		4		2.7777777777777777	true	Jacumba, California
+94	8.7		1		1.0638297872340425	true	Jamison City, Pennsylvania
+19604	20.23		193		0.9844929606202816	true	Jasmine Estates, Florida
+9464	8.99		64		0.6762468300929839	true	Jeannette, Pennsylvania
+800	36.77		10		1.25	true	Jefferson, West Virginia
+26953	5.34		156		0.5787852929173004	true	Jeffersontown, Kentucky
+46259	8.28		487		1.0527681099894075	true	Jeffersonville, Indiana
+1233	19.94		8		0.6488240064882401	true	Jeffersonville, Ohio
+14755	22.52		205		1.3893595391392748	true	Jennings, Missouri
+4333	21.92		26		0.6000461573967228	true	Jersey Shore, Pennsylvania
+3472	10.38		46		1.3248847926267282	true	Jewett City, Connecticut
+1307	14.25		17		1.300688599846978	true	Joanna, South Carolina
+2011	16.73		21		1.04425658876181	true	Johnsonville, South Carolina
+2284	23.83		23		1.0070052539404553	true	Johnston, South Carolina
+20369	28.06		218		1.070253817074967	true	Johnstown, Pennsylvania
+1621	22.45		9		0.5552128315854411	true	Jonesboro, Indiana
+4669	25.92		33		0.7067894624116513	true	Jonesboro, Georgia
+833	36.82		12		1.440576230492197	true	Jonesville, South Carolina
+2496	31.51		20		0.8012820512820512	true	Jonesville, North Carolina
+51042	12.36		275		0.5387719916931155	true	Joplin, Missouri
+566	0.0		7		1.2367491166077738	true	Juno Ridge, Florida
+13015	13.61		83		0.6377257011140991	true	Justice, Illinois
+3114	34.01		79		2.5369299935773926	true	K. I. Sawyer, Michigan
+75499	20.8		772		1.0225300997364204	true	Kalamazoo, Michigan
+176	100.0		1		0.5681818181818182	true	Kanauga, Ohio
+26821	29.38		253		0.9432907050445546	true	Kankakee, Illinois
+44520	13.39		471		1.0579514824797842	true	Kannapolis, North Carolina
+467990	14.74		3776		0.8068548473257976	true	Kansas City, Missouri
+148855	20.11		1333		0.8955023344865809	true	Kansas City, Kansas
+248	10.34		2		0.8064516129032258	true	Kawela Bay, Hawaii
+3016	16.41		19		0.629973474801061	true	Keego Harbor, Michigan
+170	31.25		1		0.5882352941176471	true	Keller, Virginia
+1233	16.67		8		0.6488240064882401	true	Kenbridge, Virginia
+9870	17.47		66		0.668693009118541	true	Kendallville, Indiana
+296	36.36		3		1.0135135135135136	true	Kendleton, Texas
+1674	31.11		17		1.015531660692951	true	Kenly, North Carolina
+5013	10.09		33		0.6582884500299222	true	Kenneth City, Florida
+99897	14.87		622		0.622641320560177	true	Kenosha, Wisconsin
+3127	9.99		21		0.6715701950751519	true	Kenova, West Virginia
+2283	12.52		22		0.9636443276390714	true	Kent Acres, Delaware
+23617	9.71		194		0.8214421814794428	true	Kernersville, North Carolina
+2303	30.83		23		0.998697351280938	true	Kershaw, South Carolina
+578	17.21		4		0.6920415224913495	true	Keys, Oklahoma
+5320	28.4		57		1.0714285714285714	true	Keyser, West Virginia
+1067	19.37		6		0.5623242736644799	true	Keysville, Virginia
+136378	12.78		2183		1.6006980598043674	true	Killeen, Texas
+105	12.9		1		0.9523809523809524	true	Kimball, West Virginia
+110	0.0		1		0.9090909090909091	true	King Lake, Nebraska
+28511	14.16		181		0.6348426922942022	true	Kingman, Arizona
+10792	15.38		148		1.3713862120088955	true	Kings Mountain, North Carolina
+742	24.69		5		0.6738544474393532	true	Kingstown, North Carolina
+3233	35.71		59		1.8249304051964121	true	Kingstree, South Carolina
+2955	12.16		15		0.5076142131979695	true	Kingwood, West Virginia
+267	57.14		5		1.8726591760299627	true	Kinloch, Missouri
+21540	25.89		523		2.4280408542246983	true	Kinston, North Carolina
+284	15.09		2		0.7042253521126761	true	Kittrell, North Carolina
+189	51.28		4		2.1164021164021163	true	Kline, South Carolina
+13243	4.35		71		0.5361322963074832	true	Knightdale, North Carolina
+394	0.0		2		0.5076142131979695	true	Knollwood, Texas
+183066	18.99		1183		0.6462150262746769	true	Knoxville, Tennessee
+58054	16.94		671		1.1558204430357943	true	Kokomo, Indiana
+1379	9.29		7		0.5076142131979695	true	Konawa, Oklahoma
+2037	17.67		13		0.6381934216985763	true	Kountze, Texas
+129	0.0		1		0.7751937984496124	true	Kunkle, Ohio
+7218	24.57		92		1.2745912995289554	true	La Follette, Tennessee
+2842	6.6		24		0.844475721323012	true	La Grange, North Carolina
+15230	14.48		84		0.551543007222587	true	La Marque, Texas
+8994	10.49		51		0.5670446964643095	true	La Plata, Maryland
+22242	16.33		140		0.6294397985792645	true	La Porte, Indiana
+16075	14.7		118		0.734059097978227	true	Laconia, New Hampshire
+1630	39.81		9		0.5521472392638037	true	Lacoochee, Florida
+6561	24.21		42		0.6401463191586648	true	Lacy-Lakeview, Texas
+14770	7.02		335		2.2681110358835475	true	Ladson, South Carolina
+3278	19.27		18		0.5491153142159854	true	Ladysmith, Wisconsin
+150	13.16		1		0.6666666666666667	true	LaFayette, Kentucky
+7107	17.82		42		0.5909666525960321	true	LaFayette, Georgia
+124982	13.11		636		0.5088732777519963	true	Lafayette, Louisiana
+70661	15.85		1080		1.5284244491303547	true	Lafayette, Indiana
+382	4.84		2		0.5235602094240838	true	Lafayette, Ohio
+30356	26.95		368		1.2122809329292397	true	LaGrange, Georgia
+3665	8.95		23		0.6275579809004093	true	Laguna Beach, Florida
+125	25.0		1		0.8	true	Lake Cavanaugh, Washington
+74190	19.0		609		0.8208653457339263	true	Lake Charles, Louisiana
+12082	25.74		87		0.7200794570435358	true	Lake City, Florida
+6728	23.7		172		2.5564803804994054	true	Lake City, South Carolina
+2650	17.4		34		1.2830188679245282	true	Lake City, Georgia
+0	0.0		1		Infinity	true	Lake Harbor, Florida
+280	0.0		4		1.4285714285714286	true	Lake Hart, Florida
+568	0.0		4		0.7042253521126761	true	Lake Mack-Forest Hills, Florida
+28560	10.11		155		0.5427170868347339	true	Lake Magdalene, Florida
+1430	6.38		10		0.6993006993006993	true	Lake Mary Jane, Florida
+1167	24.06		14		1.1996572407883461	true	Lake Michigan Beach, Michigan
+8376	22.76		92		1.0983763132760267	true	Lake Park, Florida
+36403	22.99		275		0.7554322445952256	true	Lake Worth, Florida
+101302	13.76		586		0.5784683421847545	true	Lakeland, Florida
+1579	12.66		10		0.6333122229259025	true	Lakeshire, Missouri
+13039	16.27		113		0.8666308766009663	true	Lakeside, Virginia
+1148	13.37		6		0.5226480836236934	true	Lakeview, Ohio
+831	21.96		10		1.203369434416366	true	Lakeville, Indiana
+51155	13.81		349		0.6822402502199199	true	Lakewood, Ohio
+147836	8.57		899		0.6081062799318163	true	Lakewood, Colorado
+913	21.05		5		0.547645125958379	true	Lamar, South Carolina
+196	1.72		1		0.5102040816326531	true	Lambs Grove, Iowa
+304	53.95		2		0.6578947368421052	true	Lanare, California
+8853	25.08		222		2.507624534056252	true	Lancaster, South Carolina
+3097	17.46		17		0.5489183080400387	true	Landis, North Carolina
+23218	12.92		177		0.7623395641312775	true	Landover, Maryland
+472	26.09		3		0.6355932203389831	true	Lane, South Carolina
+608	4.73		4		0.6578947368421052	true	Langeloth, Pennsylvania
+1116	28.67		24		2.1505376344086025	true	Langley, South Carolina
+114485	24.11		728		0.6358911647814125	true	Lansing, Michigan
+8790	24.42		49		0.5574516496018203	true	Lapeer, Michigan
+11015	6.51		63		0.5719473445301861	true	Largo, Maryland
+79737	11.32		448		0.561847072250022	true	Largo, Florida
+101164	17.52		636		0.628682139891661	true	Las Cruces, New Mexico
+605097	13.11		3652		0.6035395977834959	true	Las Vegas, Nevada
+7009	4.94		37		0.5278927093736624	true	Latimer, Mississippi
+34103	21.54		302		0.8855525906811718	true	Lauderdale Lakes, Florida
+69979	19.09		869		1.2418011117621002	true	Lauderhill, Florida
+18770	23.38		197		1.0495471497069793	true	Laurel, Mississippi
+16618	8.45		160		0.9628114093152004	true	Laurel, Virginia
+3916	30.16		36		0.9193054136874361	true	Laurel, Delaware
+883	11.32		5		0.5662514156285391	true	Laurel Park, Virginia
+9122	20.71		268		2.9379522034641528	true	Laurens, South Carolina
+15694	29.53		168		1.070472792149866	true	Laurinburg, North Carolina
+1842	18.92		11		0.5971769815418024	true	Lavonia, Georgia
+709	15.26		5		0.7052186177715092	true	Lawndale, North Carolina
+78804	25.77		435		0.5520024364245469	true	Lawrence, Massachusetts
+47120	15.21		492		1.0441426146010186	true	Lawrence, Indiana
+4996	14.35		57		1.1409127301841473	true	Lawrenceburg, Indiana
+29738	20.23		218		0.7330688008608515	true	Lawrenceville, Georgia
+1712	11.6		16		0.9345794392523363	true	Lawton, Michigan
+1543	31.22		9		0.5832793259883344	true	Leadwood, Missouri
+20783	24.84		249		1.1980945965452534	true	Lealman, Florida
+35861	12.65		181		0.5047265831962299	true	Leavenworth, Kansas
+15762	5.4		154		0.9770333713995686	true	Lebanon, Indiana
+5620	30.91		56		0.99644128113879	true	Lebanon, Kentucky
+21209	17.29		159		0.7496817388844359	true	Leesburg, Florida
+118	3.33		2		1.694915254237288	true	Leipsic, Delaware
+4318	28.94		26		0.6021306160259379	true	Leland, Mississippi
+13128	35.33		150		1.1425959780621573	true	Lemon Hill, California
+17978	15.07		176		0.9789743019245744	true	Lenoir, North Carolina
+832	30.1		6		0.7211538461538461	true	Lenox, Georgia
+1599	5.26		10		0.6253908692933083	true	Lenox, Massachusetts
+10846	6.76		74		0.6822791812649825	true	Leon Valley, Texas
+3595	7.77		19		0.5285118219749653	true	Level Park-Oak Park, Michigan
+36356	19.01		405		1.1139839366266917	true	Lewiston, Maine
+8326	22.57		50		0.6005284650492433	true	Lewistown, Pennsylvania
+101151	9.27		630		0.6228312127413471	true	Lewisville, Texas
+19129	27.05		373		1.949918971195567	true	Lexington, North Carolina
+19447	7.69		147		0.7559006530570268	true	Lexington, South Carolina
+308306	12.14		2829		0.9175948570575986	true	Lexington-Fayette urban county, Kentucky
+3254	21.01		28		0.8604794099569761	true	Liberty, South Carolina
+1862	18.85		10		0.5370569280343717	true	Liberty, Kentucky
+763	20.67		6		0.7863695937090431	true	Light Oak, North Carolina
+12372	14.96		62		0.5011315874555448	true	Lilburn, Georgia
+38232	26.8		407		1.0645532538187905	true	Lima, Ohio
+3365	36.75		33		0.9806835066864784	true	Lincoln Heights, Ohio
+37362	15.51		261		0.6985707403243938	true	Lincoln Park, Michigan
+9417	16.17		110		1.168100244239142	true	Lincoln Village, Ohio
+23802	9.16		139		0.5839845391143602	true	Lincolnia, Virginia
+10696	21.87		109		1.019072550486163	true	Lincolnton, North Carolina
+1299	19.03		14		1.077752117013087	true	Lincolnville, South Carolina
+18256	28.13		115		0.6299298860648554	true	Linda, California
+4041	18.37		42		1.0393466963622866	true	Lindale, Georgia
+159	32.26		1		0.628930817610063	true	Linndale, Ohio
+17246	25.56		295		1.7105415748579382	true	Lithia Springs, Georgia
+1961	23.52		39		1.988781234064253	true	Lithonia, Georgia
+190	10.0		2		1.0526315789473684	true	Little Creek, Delaware
+9617	4.07		74		0.7694707289175419	true	Little River, South Carolina
+533	19.23		3		0.5628517823639775	true	Littleton, North Carolina
+436	22.11		3		0.6880733944954129	true	Littletown, Arizona
+1366	13.43		9		0.6588579795021963	true	Livermore Falls, Maine
+932	23.79		6		0.6437768240343348	true	Loami, Illinois
+544	27.89		6		1.1029411764705883	true	Lockhart, South Carolina
+14312	14.12		113		0.7895472330911124	true	Lockhart, Florida
+13091	8.35		69		0.527079673057826	true	Lockhart, Texas
+3426	19.53		44		1.284296555750146	true	Lockland, Ohio
+5666	3.76		29		0.5118249205788916	true	Locust Grove, Georgia
+323	22.47		2		0.6191950464396285	true	Loda, Illinois
+96	8.11		1		1.0416666666666665	true	Lodge, South Carolina
+1818	25.65		15		0.825082508250825	true	Logan, West Virginia
+17716	17.21		97		0.5475276586136825	true	Logansport, Indiana
+9961	10.06		50		0.5019576347756249	true	London, Ohio
+8090	25.48		77		0.9517923362175525	true	London, Kentucky
+62	5.0		1		1.6129032258064515	true	Lone Oak, Georgia
+1557	18.67		9		0.5780346820809248	true	Lone Star, Texas
+15369	11.64		104		0.6766868371396968	true	Long Beach, Mississippi
+2359	2.71		13		0.5510809665112336	true	Long Neck, Delaware
+5050	21.37		51		1.00990099009901	true	Long View, North Carolina
+63778	21.76		632		0.9909373138072689	true	Lorain, Ohio
+2500	14.81		34		1.3599999999999999	true	Loris, South Carolina
+3499	26.65		24		0.685910260074307	true	Louisburg, North Carolina
+608732	13.23		5094		0.8368214583757713	true	Louisville/Jefferson County, Kentucky
+6450	14.61		62		0.9612403100775194	true	Lovejoy, Georgia
+3722	11.69		28		0.7522837184309511	true	Lower Grand Lagoon, Florida
+522	13.16		3		0.5747126436781609	true	Lowry City, Missouri
+930	20.9		16		1.7204301075268817	true	Lucama, North Carolina
+3162	27.93		20		0.6325110689437065	true	Lucerne, California
+5425	15.69		34		0.6267281105990783	true	Lucerne Valley, California
+1067	10.4		8		0.7497656982193065	true	Luck, Wisconsin
+393	31.25		2		0.5089058524173028	true	Ludlow, Illinois
+21721	30.21		338		1.5560977855531515	true	Lumberton, North Carolina
+4843	12.91		30		0.6194507536650836	true	Luray, Virginia
+1214	23.79		11		0.9060955518945634	true	Luthersville, Georgia
+404	21.09		3		0.7425742574257426	true	Lydia, South Carolina
+2136	14.35		14		0.6554307116104869	true	Lyman, Mississippi
+297	31.94		2		0.6734006734006733	true	Lynchburg, South Carolina
+78158	18.47		2165		2.770029939353617	true	Lynchburg, Virginia
+11244	7.95		65		0.5780860903593027	true	Lyndon, Kentucky
+91626	16.71		508		0.5544277825071486	true	Lynn, Massachusetts
+1111	4.03		6		0.54005400540054	true	Lytle Creek, California
+39589	14.99		340		0.8588244209250044	true	Mableton, Georgia
+1387	6.06		7		0.5046863734679163	true	Mabscott, West Virginia
+382	7.25		2		0.5235602094240838	true	Maceo, Kentucky
+1206	12.84		9		0.7462686567164178	true	Machias, Maine
+91351	28.83		923		1.0103885014942364	true	Macon, Georgia
+4320	7.88		24		0.5555555555555556	true	Madeira Beach, Florida
+4063	37.42		27		0.6645335958651243	true	Madison, Illinois
+2372	19.65		12		0.5059021922428331	true	Madison, Maine
+2993	14.88		16		0.5345806882726362	true	Madison, West Virginia
+12054	11.12		70		0.5807200929152149	true	Madison, Indiana
+1533	12.17		8		0.5218525766470972	true	Maggie Valley, North Carolina
+192	0.0		2		1.0416666666666665	true	Magnolia, Delaware
+1131	0.0		7		0.618921308576481	true	Manasota Key, Florida
+1466	20.94		8		0.5457025920873124	true	Mancelona, Michigan
+30883	12.37		200		0.6476054787423502	true	Manchester, Connecticut
+10378	8.8		147		1.4164578916939679	true	Manchester, Virginia
+110139	10.75		708		0.6428240677689102	true	Manchester, New Hampshire
+12267	21.03		128		1.0434499062525475	true	Mango, Florida
+1929	32.46		49		2.5401762571280453	true	Mangonia Park, Florida
+724	3.23		4		0.5524861878453038	true	Manila, California
+4056	27.9		82		2.021696252465483	true	Manning, South Carolina
+351	11.11		2		0.5698005698005698	true	Mansfield, Georgia
+46998	20.0		449		0.9553598025447892	true	Mansfield, Ohio
+7960	10.66		41		0.5150753768844221	true	Maplewood, Missouri
+3924	26.91		35		0.891946992864424	true	Mar-Mac, North Carolina
+1221	28.17		7		0.5733005733005733	true	Maricopa, California
+2683	19.38		14		0.5218039508013418	true	Marietta, Oklahoma
+58906	15.38		875		1.485417444742471	true	Marietta, Georgia
+9289	9.37		66		0.7105178167725266	true	Marina del Rey, California
+4172	10.15		34		0.8149568552253116	true	Marine City, Michigan
+6793	31.17		214		3.1503017812453993	true	Marion, South Carolina
+7914	27.23		41		0.5180692443770533	true	Marion, North Carolina
+29075	21.47		444		1.527085124677558	true	Marion, Indiana
+36701	18.62		272		0.7411242200485	true	Marion, Ohio
+1547	28.43		16		1.0342598577892694	true	Marion, Mississippi
+5919	17.94		52		0.8785267781719884	true	Marion, Virginia
+5676	10.54		77		1.3565891472868217	true	Marlow Heights, Maryland
+1570	19.59		14		0.89171974522293	true	Marmet, West Virginia
+31738	20.41		206		0.6490642132459512	true	Marrero, Louisiana
+7038	7.94		100		1.4208581983518045	true	Marshall, Michigan
+764	19.68		9		1.1780104712041886	true	Marshall, North Carolina
+1301	17.96		7		0.5380476556495004	true	Marshallton, Pennsylvania
+2538	17.06		13		0.512214342001576	true	Marshville, North Carolina
+2050	21.98		11		0.5365853658536586	true	Mart, Texas
+17564	26.85		412		2.345707128216807	true	Martinsburg, West Virginia
+11739	20.84		109		0.9285288355055796	true	Martinsville, Indiana
+13624	18.44		202		1.4826776277157956	true	Martinsville, Virginia
+38847	10.37		313		0.8057250238113625	true	Marumsco, Virginia
+17060	1.15		201		1.1781946072684644	true	Maryland City, Maryland
+12161	24.7		71		0.5838335663185593	true	Marysville, California
+774	0.0		6		0.7751937984496124	true	Mashpee Neck, Massachusetts
+2132	9.38		29		1.3602251407129455	true	Matoaca, Virginia
+24396	4.44		265		1.086243646499426	true	Mauldin, South Carolina
+2598	41.86		13		0.5003849114703618	true	Maxton, North Carolina
+137	27.78		1		0.7299270072992701	true	Maxwell, New Mexico
+4200	23.41		26		0.6190476190476191	true	Mayfair, California
+1119	0.0		8		0.7149240393208222	true	Mayo, South Carolina
+157	7.89		1		0.6369426751592357	true	Mays Lick, Kentucky
+95	0.0		1		1.0526315789473684	true	Maysville, Colorado
+18324	17.03		95		0.5184457542021393	true	McAlester, Oklahoma
+1098	41.38		7		0.6375227686703097	true	McClellan Park, California
+2399	31.92		17		0.70862859524802	true	McColl, South Carolina
+0	0.0		2		Infinity	true	McConnico, Arizona
+2707	23.6		26		0.9604728481714074	true	McCormick, South Carolina
+99	12.5		1		1.0101010101010102	true	McDonald, North Carolina
+2159	6.55		11		0.5094951366373321	true	McDonald, Pennsylvania
+22830	15.92		187		0.8190976784932106	true	McDonough, Georgia
+809	22.12		5		0.6180469715698393	true	McIntosh, New Mexico
+6075	16.71		60		0.9876543209876543	true	McKees Rocks, Pennsylvania
+401	10.64		4		0.997506234413965	true	McKenney, Virginia
+748	9.84		4		0.53475935828877	true	McKinley Heights, Ohio
+151	0.0		1		0.6622516556291391	true	McKnightstown, Pennsylvania
+4587	13.96		27		0.5886200130804448	true	McLoud, Oklahoma
+181	9.8		1		0.5524861878453038	true	McNary, Louisiana
+78	9.09		1		1.282051282051282	true	Mead, Oklahoma
+19027	8.04		188		0.9880695853261154	true	Meadowbrook, Virginia
+340	9.41		6		1.7647058823529411	true	Meadowview Estates, Kentucky
+13309	8.7		96		0.7213164024344428	true	Mebane, North Carolina
+998	14.41		9		0.9018036072144289	true	Medley, Florida
+196	13.11		1		0.5102040816326531	true	Mehama, Oregon
+10510	24.52		63		0.5994291151284491	true	Melvindale, Michigan
+657167	22.67		6514		0.9912244528407544	true	Memphis, Tennessee
+9844	5.73		55		0.5587159691182446	true	Mentone, California
+60439	10.66		444		0.7346249937953969	true	Meriden, Connecticut
+3107	2.58		26		0.8368200836820083	true	Meridian, Colorado
+40507	29.09		215		0.5307724590811465	true	Meridian, Mississippi
+706	17.32		4		0.56657223796034	true	Merrill, Michigan
+35322	8.12		254		0.7190985787894231	true	Merrillville, Indiana
+1890	30.62		48		2.5396825396825395	true	Merrimac, Virginia
+1812	1.24		12		0.6622516556291391	true	Merrionette Park, Illinois
+9008	18.63		57		0.6327708703374778	true	Merrydale, Louisiana
+458860	12.55		6982		1.521597001264002	true	Mesa, Arizona
+143584	12.94		893		0.6219355917093826	true	Mesquite, Texas
+142715	9.51		883		0.6187156220439337	true	Metairie, Louisiana
+1120	50.42		7		0.625	true	Metcalfe, Mississippi
+424632	23.66		2541		0.598400497371842	true	Miami, Florida
+1315	8.58		11		0.8365019011406843	true	Miamitown, Ohio
+4704	14.32		29		0.6164965986394557	true	Michigan Center, Michigan
+31412	25.68		177		0.5634789252514962	true	Michigan City, Indiana
+154	54.55		1		0.6493506493506493	true	Middleburg, North Carolina
+689	18.5		5		0.7256894049346879	true	Middletown, Michigan
+48563	21.05		836		1.7214751971665672	true	Middletown, Ohio
+8942	9.68		50		0.5591590248266607	true	Middletown, Pennsylvania
+3304	1.3		19		0.5750605326876513	true	Middleville, Michigan
+519	21.1		5		0.9633911368015413	true	Middleway, West Virginia
+2589	31.44		19		0.7338740826573967	true	Midland, Pennsylvania
+163	23.08		1		0.6134969325153374	true	Midland, Colorado
+1485	30.96		8		0.5387205387205387	true	Midway, Florida
+56507	12.43		653		1.1556090395880156	true	Midwest City, Oklahoma
+9993	15.56		56		0.5603922745922145	true	Milford, Delaware
+9107	4.53		56		0.6149116064565718	true	Milford, New Hampshire
+1067	1.21		6		0.5623242736644799	true	Milford, Pennsylvania
+1155	22.6		10		0.8658008658008658	true	Millbourne, Pennsylvania
+18971	27.01		249		1.3125296505192137	true	Milledgeville, Georgia
+1842	16.08		10		0.5428881650380022	true	Millers Creek, North Carolina
+368	13.76		2		0.5434782608695652	true	Millingport, North Carolina
+4050	16.11		21		0.5185185185185185	true	Millsboro, Delaware
+3721	17.97		29		0.7793603869927439	true	Millvale, Pennsylvania
+2717	10.75		14		0.5152741994847259	true	Milton, Delaware
+2557	13.01		20		0.7821666014861166	true	Milton, West Virginia
+176	11.63		1		0.5681818181818182	true	Milton, North Carolina
+599498	24.72		5687		0.9486270179383418	true	Milwaukee, Wisconsin
+1582	5.93		9		0.5689001264222503	true	Mineralwells, West Virginia
+1050	6.9		8		0.7619047619047619	true	Minturn, Colorado
+112	14.29		1		0.8928571428571428	true	Miramiguoa Park, Missouri
+48121	16.28		377		0.7834417406122068	true	Mishawaka, Indiana
+1296	24.44		14		1.0802469135802468	true	Mississippi Valley State University, Mississippi
+625	14.73		4		0.64	true	Modena, Pennsylvania
+128	38.89		1		0.78125	true	Moffett, Oklahoma
+4297	23.65		34		0.7912497090993718	true	Mojave, California
+2377	22.42		26		1.093815734118637	true	Moline Acres, Missouri
+5706	9.33		45		0.7886435331230284	true	Monaca, Pennsylvania
+1941	14.0		19		0.9788768675940238	true	Monarch Mill, South Carolina
+166	34.15		1		0.6024096385542169	true	Monaville, West Virginia
+9108	9.46		165		1.8115942028985508	true	Moncks Corner, South Carolina
+171	29.41		1		0.5847953216374269	true	Monetta, South Carolina
+20335	16.03		201		0.9884435701991641	true	Monroe, Michigan
+33951	20.82		295		0.8688992960442992	true	Monroe, North Carolina
+13476	26.64		117		0.8682101513802316	true	Monroe, Georgia
+935	24.9		7		0.7486631016042781	true	Montandon, Pennsylvania
+38025	12.49		208		0.5470085470085471	true	Montclair, California
+750	16.67		4		0.5333333333333333	true	Montgomery, Texas
+1801	14.64		10		0.5552470849528041	true	Montgomery, West Virginia
+2607	30.34		16		0.6137322593018796	true	Monticello, Georgia
+1559	33.07		11		0.7055805003207184	true	Monticello, Mississippi
+5332	7.81		27		0.5063765941485371	true	Monticello, Indiana
+184	0.0		1		0.5434782608695652	true	Montmorenci, Indiana
+1704	12.47		10		0.5868544600938966	true	Montpelier, Indiana
+7880	26.22		139		1.763959390862944	true	Montrose, Virginia
+440	31.87		3		0.6818181818181818	true	Montross, Virginia
+556	3.57		3		0.539568345323741	true	Montvale, Virginia
+2814	14.35		15		0.5330490405117271	true	Moorefield, West Virginia
+696	27.01		4		0.5747126436781609	true	Moores Hill, Indiana
+486	0.93		3		0.6172839506172839	true	Mooresboro, North Carolina
+1975	45.08		21		1.0632911392405064	true	Moorhead, Mississippi
+392	1.2		3		0.7653061224489796	true	Moorland, Kentucky
+6332	12.62		34		0.5369551484523057	true	Moraine, Ohio
+16748	19.9		98		0.5851444948650585	true	Morganton, North Carolina
+30164	12.11		261		0.8652698581090041	true	Morgantown, West Virginia
+2681	50.86		16		0.5967922417008579	true	Morgantown, Kentucky
+1525	3.45		36		2.360655737704918	true	Morningside, Maryland
+3242	7.64		19		0.5860579888957435	true	Morongo Valley, California
+1172	9.54		9		0.7679180887372014	true	Morrice, Michigan
+6982	9.24		74		1.0598682325981095	true	Morrow, Georgia
+4057	26.92		21		0.5176238599950702	true	Moses Lake North, Washington
+13685	17.04		74		0.5407380343441724	true	Moss Point, Mississippi
+1192	14.39		6		0.5033557046979865	true	Mounds, Oklahoma
+10391	18.05		77		0.7410258877875084	true	Mount Airy, North Carolina
+4706	12.3		27		0.5737356566085848	true	Mount Carmel, Ohio
+16381	18.68		147		0.8973811122642086	true	Mount Clemens, Michigan
+122	12.9		1		0.819672131147541	true	Mount Croghan, South Carolina
+1349	8.21		7		0.5189028910303929	true	Mount Gay-Shamrock, West Virginia
+1282	19.64		9		0.702028081123245	true	Mount Gilead, North Carolina
+6071	21.55		128		2.1083841212320866	true	Mount Healthy, Ohio
+3276	34.12		32		0.9768009768009768	true	Mount Healthy Heights, Ohio
+1271	36.9		10		0.7867820613690008	true	Mount Hope, West Virginia
+3003	38.28		27		0.8991008991008992	true	Mount Morris, Michigan
+3160	9.51		16		0.5063291139240507	true	Mount Penn, Pennsylvania
+8329	8.57		64		0.7683995677752431	true	Mount Rainier, Maryland
+1816	15.83		12		0.6607929515418502	true	Mount Sterling, Ohio
+4531	9.91		31		0.6841756786581329	true	Mount Vernon, Missouri
+1850	20.34		15		0.8108108108108109	true	Mount Zion, Georgia
+2543	12.4		18		0.7078254030672434	true	Mountain City, Tennessee
+115	29.03		1		0.8695652173913043	true	Mountville, South Carolina
+1362	6.05		8		0.5873715124816447	true	Mulberry, Indiana
+3331	27.58		17		0.5103572500750525	true	Muldrow, Oklahoma
+4560	19.73		76		1.6666666666666667	true	Mullins, South Carolina
+8745	8.54		58		0.6632361349342482	true	Murphy, Missouri
+170	0.0		1		0.5882352941176471	true	Murphy, Oklahoma
+37861	29.83		763		2.0152663690869232	true	Muskegon, Michigan
+10809	42.51		359		3.3213063188084	true	Muskegon Heights, Michigan
+38776	21.02		215		0.5544666804208789	true	Muskogee, Oklahoma
+29198	17.7		729		2.4967463524898967	true	Myrtle Beach, South Carolina
+16134	14.3		81		0.502045370026032	true	Myrtle Grove, Florida
+2495	12.06		19		0.7615230460921844	true	Myrtle Point, Oregon
+10356	20.38		80		0.772499034376207	true	Nanticoke, Pennsylvania
+1103	10.76		7		0.6346328195829556	true	Napoleon, Michigan
+6650	7.63		36		0.5413533834586466	true	Nappanee, Indiana
+9392	32.69		67		0.7133730834752982	true	Naranja, Florida
+87110	7.27		489		0.561359201010217	true	Nashua, New Hampshire
+1761	15.43		12		0.6814310051107325	true	Nashville, Michigan
+634512	14.08		4457		0.7024295836800565	true	Nashville-Davidson, Tennessee
+4085	7.62		22		0.5385556915544676	true	Nassau Bay, Texas
+146	63.41		1		0.684931506849315	true	Nathalie, Virginia
+16073	3.55		86		0.5350587942512287	true	Neabsco, Virginia
+198	0.0		1		0.5050505050505051	true	Negley, Ohio
+2450	10.0		14		0.5714285714285714	true	Nekoosa, Wisconsin
+3554	4.79		44		1.2380416432189083	true	Nellis AFB, Nevada
+728	7.69		5		0.6868131868131868	true	Nemacolin, Pennsylvania
+656	9.66		5		0.7621951219512195	true	New Baltimore, Ohio
+94909	19.5		527		0.5552687311003172	true	New Bedford, Massachusetts
+30218	14.06		209		0.6916407439274604	true	New Bern, North Carolina
+2125	38.17		19		0.8941176470588236	true	New Boston, Ohio
+72988	19.14		808		1.1070312928152573	true	New Britain, Connecticut
+1893	9.86		10		0.5282620179609087	true	New Buffalo, Michigan
+4881	23.52		27		0.5531653349723417	true	New Burlington, Ohio
+22682	23.22		115		0.5070099638479852	true	New Castle, Pennsylvania
+2081	15.79		32		1.5377222489187892	true	New Chicago, Indiana
+211	30.61		5		2.3696682464454977	true	New Church, Virginia
+2431	23.01		24		0.9872480460715755	true	New Ellenton, South Carolina
+523	0.0		3		0.5736137667304015	true	New Haven, Ohio
+394	0.0		2		0.5076142131979695	true	New Haven, Ohio
+130612	22.49		1481		1.1338927510489083	true	New Haven, Connecticut
+15832	11.11		125		0.7895401718039414	true	New Haven, Indiana
+4310	20.9		22		0.5104408352668214	true	New Lebanon, Ohio
+4795	18.18		30		0.6256517205422315	true	New Lexington, Ohio
+2336	16.76		13		0.5565068493150684	true	New Market, Virginia
+5295	10.99		28		0.5288007554296507	true	New Martinsville, West Virginia
+2169	9.34		25		1.1526048870447212	true	New Miami, Ohio
+1593	19.79		12		0.7532956685499058	true	New Paris, Ohio
+15260	15.51		151		0.9895150720838795	true	New Port Richey, Florida
+8686	13.04		49		0.5641261800598665	true	New Port Richey East, Florida
+289	0.0		2		0.6920415224913495	true	New Richmond, West Virginia
+410	0.0		5		1.2195121951219512	true	New Salem, Pennsylvania
+1335	40.0		7		0.5243445692883896	true	New Waverly, Texas
+47829	19.17		382		0.7986786259382382	true	Newark, Ohio
+1870	32.01		12		0.6417112299465241	true	Newaygo, Michigan
+1317	7.37		9		0.683371298405467	true	Newell, West Virginia
+35224	19.6		190		0.539404951169657	true	Newnan, Georgia
+15428	24.56		152		0.9852216748768473	true	Newport, Kentucky
+1616	21.31		9		0.5569306930693069	true	Newport, Maine
+1165	33.22		18		1.5450643776824033	true	Newport, Delaware
+4798	2.65		41		0.854522717799083	true	Newport, New Hampshire
+181323	12.69		3732		2.0582055227411855	true	Newport News, Virginia
+12980	20.29		82		0.6317411402157165	true	Newton, North Carolina
+2204	5.82		14		0.6352087114337568	true	Nice, California
+355	14.29		2		0.5633802816901409	true	Nichols, South Carolina
+2636	40.15		20		0.7587253414264037	true	Nicholson, Mississippi
+386	12.5		2		0.5181347150259068	true	Nickerson, Nebraska
+18886	17.95		107		0.5665572381658371	true	Niles, Ohio
+2011	14.88		13		0.6464445549477871	true	Ninety Six, South Carolina
+6711	9.53		55		0.8195499925495455	true	Nitro, West Virginia
+245452	16.23		4318		1.7592034287762983	true	Norfolk, Virginia
+1131	27.16		8		0.707338638373121	true	Norlina, North Carolina
+117353	10.59		774		0.6595485415796785	true	Norman, Oklahoma
+4985	17.51		44		0.8826479438314945	true	Normandy, Missouri
+34500	20.14		175		0.5072463768115941	true	Norristown, Pennsylvania
+22037	8.76		183		0.8304215637337206	true	North Augusta, South Carolina
+790	8.11		10		1.2658227848101267	true	North Bend, Ohio
+4829	25.77		35		0.7247877407330711	true	North Braddock, Pennsylvania
+518	11.65		3		0.5791505791505791	true	North Brentwood, Maryland
+1305	9.09		13		0.996168582375479	true	North Charleroi, Pennsylvania
+104146	19.17		3660		3.514297236571736	true	North Charleston, South Carolina
+9361	15.71		82		0.8759747890182672	true	North College Hill, Ohio
+1735	21.8		11		0.6340057636887608	true	North Corbin, Kentucky
+18385	5.38		124		0.6744628773456622	true	North Druid Hills, Georgia
+398	0.97		2		0.5025125628140703	true	North Hampton, Ohio
+3282	11.93		28		0.8531383302864107	true	North Hartsville, South Carolina
+46376	23.15		440		0.9487666034155597	true	North Highlands, California
+4298	3.74		76		1.7682643089809214	true	North Kansas City, Missouri
+2633	13.9		15		0.569692366122294	true	North Lakeport, California
+226860	13.52		1720		0.758176849158071	true	North Las Vegas, Nevada
+42853	18.5		285		0.6650642895479896	true	North Lauderdale, Florida
+1522	4.62		10		0.657030223390276	true	North Lewisburg, Ohio
+62042	23.98		464		0.7478804680700171	true	North Miami, Florida
+43489	19.23		252		0.5794568741520845	true	North Miami Beach, Florida
+14824	8.46		104		0.7015650296815974	true	North Myrtle Beach, South Carolina
+998	19.39		12		1.2024048096192386	true	North Randall, Ohio
+1060	24.05		11		1.0377358490566038	true	North Tunica, Mississippi
+272	5.71		6		2.2058823529411766	true	North Washington, Colorado
+4250	32.23		41		0.9647058823529411	true	North Wilkesboro, North Carolina
+299	0.0		2		0.6688963210702341	true	North Woodstock, New Hampshire
+1671	10.99		10		0.5984440454817475	true	North York, Pennsylvania
+10545	11.96		58		0.5500237079184448	true	Northbrook, Ohio
+3386	13.1		22		0.6497341996455995	true	Northchase, North Carolina
+37754	9.22		412		1.0912750966784976	true	Northglenn, Colorado
+4168	5.37		52		1.2476007677543186	true	Northlake, South Carolina
+4208	26.75		29		0.6891634980988594	true	Northwoods, Missouri
+23982	5.91		141		0.5879409557167875	true	Norton Shores, Michigan
+2341	23.06		13		0.5553182400683468	true	Norway, Maine
+40254	12.86		407		1.0110796442589558	true	Norwich, Connecticut
+19316	14.38		193		0.9991716711534478	true	Norwood, Ohio
+340	3.96		2		0.5882352941176471	true	Norwood, Kentucky
+868	22.16		23		2.6497695852534564	true	Norwood Court, Missouri
+1625	12.66		10		0.6153846153846154	true	Nutter Fort, West Virginia
+116	0.0		1		0.8620689655172413	true	O'Brien, Oregon
+7496	15.44		84		1.1205976520811098	true	Oak Grove, Kentucky
+10183	4.67		102		1.001669449081803	true	Oak Grove, South Carolina
+406	22.22		5		1.2315270935960592	true	Oak Grove Village, Missouri
+2280	13.89		12		0.5263157894736842	true	Oak Hills, Pennsylvania
+29727	13.06		200		0.672789046994315	true	Oak Park, Michigan
+23108	30.11		254		1.0991864289423576	true	Oak Ridge, Florida
+2448	5.38		16		0.6535947712418301	true	Oakland, Maine
+43347	16.65		322		0.7428426419360048	true	Oakland Park, Florida
+2906	26.34		34		1.1699931176875429	true	Oaklawn-Sunview, Kansas
+196	14.75		1		0.5102040816326531	true	Oakley, Michigan
+3205	14.16		21		0.6552262090483619	true	Oakridge, Oregon
+4123	12.77		48		1.1642008246422508	true	Oakwood, Georgia
+241	0.0		3		1.2448132780082988	true	Ocean Breeze Park, Florida
+454	4.17		3		0.6607929515418502	true	Oden, Michigan
+33842	25.42		382		1.1287748951007623	true	Oildale, California
+610672	14.05		6433		1.0534296643697434	true	Oklahoma City, Oklahoma
+1033	21.55		8		0.7744433688286544	true	Old Fort, North Carolina
+7726	19.89		40		0.5177323323841574	true	Old Town, Maine
+35018	5.98		189		0.5397224284653607	true	Olive Branch, Mississippi
+2931	15.93		15		0.511770726714432	true	Oliver, Pennsylvania
+7843	2.27		40		0.5100089251561902	true	Olivette, Missouri
+440034	12.24		3030		0.6885831549380275	true	Omaha, Nebraska
+1299	57.2		9		0.6928406466512702	true	Omega, Georgia
+1719	27.95		11		0.6399069226294357	true	Onalaska, Texas
+1062	18.81		12		1.1299435028248588	true	Onset, Massachusetts
+168218	14.5		892		0.5302642998965628	true	Ontario, California
+28	20.0		1		3.571428571428571	true	Onton, Kentucky
+16139	40.03		177		1.0967222256645393	true	Opa-locka, Florida
+189	25.0		1		0.5291005291005291	true	Organ, New Mexico
+256738	16.93		2167		0.8440511338407248	true	Orlando, Florida
+5978	13.81		60		1.0036801605888257	true	Orlovista, Florida
+16060	17.66		127		0.7907845579078455	true	Oroville, California
+24758	16.18		124		0.5008482106793763	true	Ottumwa, Iowa
+16011	15.13		106		0.6620448441696334	true	Overland, Missouri
+58350	16.03		325		0.5569837189374465	true	Owensboro, Kentucky
+14826	20.09		175		1.1803588290840417	true	Owosso, Michigan
+103	0.0		1		0.9708737864077669	true	Oxbow Estates, Arizona
+2265	15.09		15		0.6622516556291391	true	Oxford, Georgia
+8650	23.68		103		1.1907514450867052	true	Oxford, North Carolina
+1088	19.83		6		0.5514705882352942	true	Oyster Creek, Texas
+174	10.0		1		0.5747126436781609	true	Pace, Mississippi
+549	45.21		11		2.0036429872495445	true	Page Park, Florida
+3309	22.59		47		1.4203686914475673	true	Pagedale, Missouri
+2745	14.7		31		1.1293260473588342	true	Pageland, South Carolina
+19694	17.17		165		0.8378186249619174	true	Painesville, Ohio
+329	71.83		3		0.911854103343465	true	Pajarito Mesa, New Mexico
+2654	7.52		23		0.8666164280331574	true	Palisade, Colorado
+1077	3.29		7		0.6499535747446611	true	Palm Beach Shores, Florida
+23017	21.46		158		0.686449146283182	true	Palm River-Clair Mel, Florida
+4928	22.84		34		0.689935064935065	true	Palmetto, Georgia
+1245	16.92		7		0.5622489959839357	true	Palmona Park, Florida
+1181	26.09		13		1.100762066045724	true	Pamplico, South Carolina
+36917	16.29		266		0.7205352547606794	true	Panama City, Florida
+12092	6.74		89		0.7360238173999338	true	Panama City Beach, Florida
+9367	20.82		306		3.2667876588021776	true	Panthersville, Georgia
+1095	23.92		9		0.821917808219178	true	Parachute, Colorado
+226957	13.12		2416		1.064518829558022	true	Paradise, Nevada
+823	11.68		5		0.6075334143377886	true	Paradise Heights, Florida
+2016	17.88		26		1.2896825396825395	true	Parchment, Michigan
+24903	21.5		251		1.007910693490744	true	Paris, Texas
+9831	18.17		50		0.5085952598921778	true	Paris, Kentucky
+7432	18.88		57		0.7669537136706136	true	Park City, Illinois
+475	18.9		5		1.0526315789473684	true	Park City, Kentucky
+21928	15.46		124		0.565487048522437	true	Park Forest, Illinois
+3667	17.59		26		0.7090264521407145	true	Park Hill, Oklahoma
+4612	17.94		26		0.5637467476149176	true	Park Layne, Ohio
+4462	12.71		47		1.05333930972658	true	Parker, Florida
+31133	19.37		311		0.998940031477853	true	Parkersburg, West Virginia
+1405	16.57		12		0.8540925266903915	true	Parklawn, California
+756	11.33		4		0.5291005291005291	true	Parksley, Virginia
+560	12.86		5		0.8928571428571428	true	Parkton, North Carolina
+355	13.73		2		0.5633802816901409	true	Parkway, Missouri
+15369	25.95		101		0.6571670245298978	true	Parkway, California
+80380	9.19		436		0.5424234884299577	true	Parma, Ohio
+20409	9.56		123		0.6026752903130972	true	Parma Heights, Ohio
+935	2.62		9		0.9625668449197862	true	Pasadena Hills, Missouri
+555	2.8		4		0.7207207207207207	true	Pasadena Park, Missouri
+22230	21.97		361		1.6239316239316242	true	Pascagoula, Mississippi
+662	15.88		11		1.6616314199395772	true	Patterson Springs, North Carolina
+504	12.96		4		0.7936507936507936	true	Paw Paw, West Virginia
+4037	15.39		38		0.9412930393856824	true	Paw Paw Lake, Michigan
+3663	14.22		27		0.7371007371007371	true	Pawhuska, Oklahoma
+97	16.67		5		5.154639175257731	true	Pawleys Island, South Carolina
+71395	16.48		665		0.9314377757546047	true	Pawtucket, Rhode Island
+215	25.49		2		0.9302325581395349	true	Paxville, South Carolina
+208	46.34		2		0.9615384615384616	true	Payne, Georgia
+6323	7.02		33		0.5219041594179977	true	Pea Ridge, West Virginia
+26222	11.37		190		0.7245824117153534	true	Pearl, Mississippi
+1857	24.68		18		0.9693053311793215	true	Peebles, Ohio
+1867	37.59		13		0.6963042313872523	true	Pelican Bay, Texas
+705	13.37		6		0.851063829787234	true	Pelion, South Carolina
+861	18.1		5		0.5807200929152149	true	Pellston, Michigan
+82	28.57		1		1.2195121951219512	true	Pelzer, South Carolina
+3036	23.77		20		0.6587615283267457	true	Pembroke, Georgia
+3002	54.98		80		2.664890073284477	true	Pembroke, North Carolina
+6244	22.67		66		1.057014734144779	true	Pembroke Park, Florida
+3089	21.87		47		1.5215280025898348	true	Pendleton, South Carolina
+545	12.95		3		0.5504587155963303	true	Penn, Pennsylvania
+4094	14.83		22		0.537371763556424	true	Pennside, Pennsylvania
+115847	16.99		727		0.6275518571909502	true	Peoria, Illinois
+1994	13.39		12		0.6018054162487462	true	Perry, Michigan
+14991	16.05		157		1.0472950436928825	true	Perry, Georgia
+303	48.68		2		0.6600660066006601	true	Perry, South Carolina
+11197	15.62		114		1.0181298562114853	true	Peru, Indiana
+32123	23.59		1402		4.364474052859322	true	Petersburg, Virginia
+5725	6.8		42		0.7336244541484715	true	Petoskey, Michigan
+5596	16.79		44		0.7862759113652609	true	Pevely, Missouri
+1555072	21.04		10264		0.66003374763355	true	Philadelphia, Pennsylvania
+459	70.18		17		3.7037037037037033	true	Phillipsburg, Georgia
+1514208	18.39		21329		1.4085911578858386	true	Phoenix, Arizona
+10784	20.52		115		1.0663946587537092	true	Picayune, Mississippi
+3148	20.03		32		1.0165184243964422	true	Pickens, South Carolina
+839	19.35		13		1.5494636471990464	true	Piedmont, West Virginia
+5648	18.61		51		0.9029745042492918	true	Piedmont, South Carolina
+6039	13.57		33		0.546448087431694	true	Pigeon Forge, Tennessee
+2050	34.84		14		0.6829268292682927	true	Piketon, Ohio
+2018	28.82		13		0.6442021803766105	true	Pikeville, Tennessee
+486	28.77		3		0.6172839506172839	true	Pinal, Arizona
+10796	27.92		76		0.7039644312708411	true	Pine Castle, Florida
+2330	17.81		14		0.6008583690987125	true	Pine Crest, Tennessee
+66906	22.17		539		0.8056078677547605	true	Pine Hills, Florida
+648	11.36		35		5.401234567901234	true	Pine Lake, Georgia
+3363	36.22		41		1.2191495688373477	true	Pine Lawn, Missouri
+1991	19.89		13		0.6529382219989954	true	Pine Level, North Carolina
+4451	61.45		35		0.7863401482812851	true	Pine Manor, Florida
+1990	2.11		24		1.2060301507537687	true	Pine Ridge, South Carolina
+1933	17.69		17		0.8794619762027935	true	Pinehurst, Texas
+8066	16.09		121		1.5001239771881973	true	Pineville, North Carolina
+16992	26.84		155		0.9121939736346516	true	Pinewood, Florida
+13738	12.75		102		0.742466152278352	true	Piney Green, North Carolina
+1098	0.0		10		0.9107468123861567	true	Pinopolis, South Carolina
+20681	19.49		105		0.5077123930177457	true	Piqua, Ohio
+1629	25.0		20		1.2277470841006752	true	Pittsfield, New Hampshire
+1851	18.63		13		0.7023230686115614	true	Plainview, Tennessee
+3810	13.61		31		0.8136482939632546	true	Plainwell, Michigan
+1123	28.64		7		0.6233303650934996	true	Plantation Mobile Home Park, Florida
+1010	14.91		7		0.6930693069306931	true	Plantersville, Mississippi
+4793	9.33		30		0.6259127894846651	true	Platte City, Missouri
+6475	9.87		42		0.6486486486486486	true	Plattsmouth, Nebraska
+1794	18.07		21		1.1705685618729096	true	Pleasant Grove, Ohio
+541	0.0		5		0.9242144177449169	true	Pleasant Hills, Ohio
+1646	17.03		10		0.6075334143377886	true	Plum Creek, Virginia
+472	15.62		6		1.2711864406779663	true	Plum Springs, Kentucky
+257	10.53		3		1.1673151750972763	true	Plumwood, Ohio
+3736	27.48		30		0.8029978586723768	true	Plymouth, North Carolina
+5895	22.91		67		1.1365564037319762	true	Plymouth, Pennsylvania
+769	20.1		4		0.5201560468140443	true	Point, Texas
+4307	26.42		30		0.6965405154399814	true	Point Pleasant, West Virginia
+104741	18.9		870		0.8306202919582589	true	Pompano Beach, Florida
+43	0.0		1		2.3255813953488373	true	Ponshewaing, Michigan
+5840	18.43		31		0.5308219178082192	true	Pontoon Beach, Illinois
+17195	21.21		113		0.6571677813317826	true	Poplar Bluff, Missouri
+439	45.0		9		2.050113895216401	true	Poplar Hills, Kentucky
+712	22.22		4		0.5617977528089888	true	Port Austin, Michigan
+29508	23.16		661		2.240070489358818	true	Port Huron, Michigan
+2699	8.25		33		1.2226750648388292	true	Port Richey, Florida
+99	64.71		1		1.0101010101010102	true	Port Royal, Virginia
+546	14.52		4		0.7326007326007326	true	Port Sanilac, Michigan
+6619	3.23		36		0.5438888049554313	true	Port Wentworth, Georgia
+1890	22.39		19		1.0052910052910053	true	Porterdale, Georgia
+20376	26.96		170		0.8343148802512759	true	Portsmouth, Ohio
+96135	14.91		2469		2.568263379622406	true	Portsmouth, Virginia
+2612	10.52		18		0.6891271056661562	true	Potterville, Michigan
+525	19.7		3		0.5714285714285714	true	Potts Camp, Mississippi
+14025	13.53		72		0.5133689839572192	true	Pottsville, Pennsylvania
+30635	18.87		213		0.6952831728415212	true	Poughkeepsie, New York
+14462	12.19		82		0.5670031807495505	true	Powder Springs, Georgia
+7618	0.0		133		1.7458650564452611	true	Powdersville, South Carolina
+126	36.84		1		0.7936507936507936	true	Powhatan, Louisiana
+9378	14.83		67		0.7144380464917893	true	Presque Isle, Maine
+1944	24.27		37		1.9032921810699588	true	Prince George, Virginia
+198	0.0		1		0.5050505050505051	true	Princeton, California
+6082	22.63		66		1.0851693521867807	true	Princeton, West Virginia
+2188	28.18		15		0.6855575868372943	true	Princeville, North Carolina
+176	3.85		1		0.5681818181818182	true	Proctorville, North Carolina
+496	22.76		7		1.411290322580645	true	Promised Land, South Carolina
+178680	23.96		1580		0.8842623684799642	true	Providence, Rhode Island
+9484	19.28		53		0.5588359342049768	true	Pryor Creek, Oklahoma
+70	0.0		1		1.4285714285714286	true	Pulaski, Ohio
+8958	14.44		63		0.7032819825853985	true	Pulaski, Virginia
+3531	1.67		18		0.5097706032285472	true	Pulaski, Wisconsin
+6292	10.9		34		0.540368722186904	true	Purcell, Oklahoma
+2519	8.56		32		1.2703453751488685	true	Putney, Georgia
+469	15.38		7		1.4925373134328357	true	Quantico, Virginia
+1253	1.26		26		2.0750199521149244	true	Quinby, South Carolina
+2147	15.33		17		0.7918025151374011	true	Quitman, Mississippi
+78127	18.12		756		0.9676552280261627	true	Racine, Wisconsin
+22913	16.0		228		0.9950683018373849	true	Radcliff, Kentucky
+17057	13.64		99		0.5804068710793223	true	Radford, Virginia
+4830	33.92		46		0.9523809523809524	true	Raeford, North Carolina
+432520	11.44		3322		0.768056968463886	true	Raleigh, North Carolina
+1315	34.52		16		1.2167300380228137	true	Rand, West Virginia
+33409	9.11		177		0.5297973599928163	true	Randolph, Massachusetts
+4713	8.6		56		1.1882028431996605	true	Ranson corporation, West Virginia
+6493	11.82		45		0.6930540582165409	true	Raton, New Mexico
+2544	26.87		41		1.6116352201257862	true	Ravenel, South Carolina
+11642	17.27		78		0.6699879745748153	true	Ravenna, Ohio
+1995	21.08		11		0.5513784461152882	true	Raymond, Mississippi
+7988	22.02		44		0.5508262393590386	true	Rayne, Louisiana
+29486	10.14		198		0.6715051210744082	true	Raytown, Missouri
+88057	36.78		1143		1.2980228715491102	true	Reading, Pennsylvania
+10349	14.29		66		0.6377427770799111	true	Reading, Ohio
+8920	13.98		96		1.0762331838565022	true	Red Bank, South Carolina
+14065	17.94		83		0.5901173124777818	true	Red Bluff, California
+1314	38.73		8		0.60882800608828	true	Red Boiling Springs, Tennessee
+279	2.22		2		0.7168458781362007	true	Red Cliff, Colorado
+14357	17.73		164		1.1422999233823223	true	Red Hill, South Carolina
+3451	45.62		24		0.6954505940307157	true	Red Springs, North Carolina
+32614	12.77		673		2.063530998957503	true	Redan, Georgia
+14191	15.36		102		0.7187654146994574	true	Reidsville, North Carolina
+369	25.33		3		0.8130081300813009	true	Rennert, North Carolina
+234161	12.04		1627		0.6948210846383471	true	Reno, Nevada
+5495	13.52		38		0.6915377616014559	true	Rensselaer, Indiana
+36899	10.22		276		0.7479877503455379	true	Reynoldsburg, Ohio
+102018	17.37		763		0.747907232057088	true	Rialto, California
+989	14.34		5		0.5055611729019212	true	Rice, Texas
+797	17.42		5		0.6273525721455459	true	Rich Creek, Virginia
+7992	6.78		56		0.7007007007007007	true	Richland Hills, Texas
+11895	18.28		82		0.689365279529214	true	Richmond, Texas
+213735	19.33		6345		2.9686293775001755	true	Richmond, Virginia
+1942	5.71		13		0.6694129763130793	true	Richmond, Maine
+10485	7.33		117		1.1158798283261802	true	Richmond Heights, Ohio
+10872	10.61		60		0.5518763796909493	true	Richmond Hill, Georgia
+928	19.9		5		0.5387931034482759	true	Richton, Mississippi
+4030	16.53		40		0.9925558312655087	true	Ridgeland, South Carolina
+24276	6.25		269		1.1080902949415061	true	Ridgeland, Mississippi
+390	0.0		2		0.5128205128205128	true	Riegelwood, North Carolina
+54	100.0		1		1.8518518518518516	true	Rincon, New Mexico
+9487	9.7		60		0.6324443975967112	true	Rincon, Georgia
+8291	37.69		61		0.7357375467374261	true	Ripley, Tennessee
+315	12.99		2		0.6349206349206349	true	Ripley, Oklahoma
+3970	17.97		34		0.8564231738035265	true	Rising Sun-Lebanon, Delaware
+7673	38.63		91		1.1859768017724488	true	River Rouge, Michigan
+13106	22.48		92		0.701968564016481	true	Riverdale, Illinois
+15650	27.89		299		1.9105431309904153	true	Riverdale, Georgia
+25075	11.17		136		0.5423728813559322	true	Riverside, Ohio
+3056	22.42		35		1.1452879581151831	true	Riverside, Missouri
+2849	16.82		47		1.6497016497016497	true	Riverview, Missouri
+12266	10.06		104		0.8478721669655959	true	Riverview, Michigan
+232	11.59		2		0.8620689655172413	true	Rives, Tennessee
+33445	17.86		352		1.0524742113918373	true	Riviera Beach, Florida
+98736	16.3		1531		1.550599578674445	true	Roanoke, Virginia
+15557	17.19		174		1.1184675708684193	true	Roanoke Rapids, North Carolina
+575	23.53		9		1.565217391304348	true	Robbinsville, North Carolina
+1045	24.7		15		1.4354066985645932	true	Robin Glen-Indiantown, Michigan
+6123	16.56		38		0.6206108116936142	true	Rochester, Indiana
+29954	12.33		184		0.6142752220070775	true	Rochester, New Hampshire
+150283	20.44		1189		0.7911739850814796	true	Rockford, Illinois
+9376	21.42		84		0.8959044368600683	true	Rockingham, North Carolina
+7233	8.29		47		0.649799529932255	true	Rockland, Maine
+4197	23.28		38		0.9054086252084823	true	Rockmart, Georgia
+7459	20.88		96		1.2870357956830674	true	Rockville, Connecticut
+140	18.52		1		0.7142857142857143	true	Rockville, Missouri
+1932	6.45		11		0.5693581780538302	true	Rockwell, North Carolina
+56642	20.64		602		1.0628155785459554	true	Rocky Mount, North Carolina
+4794	18.79		25		0.5214851898206091	true	Rocky Mount, Virginia
+198	50.0		1		0.5050505050505051	true	Rodey, New Mexico
+1586	7.6		16		1.008827238335435	true	Rodney Village, Delaware
+4400	24.32		27		0.6136363636363636	true	Rogersville, Tennessee
+187	0.0		1		0.53475935828877	true	Rogersville, Pennsylvania
+15	0.0		1		6.666666666666667	true	Rollinsville, Colorado
+36278	22.11		666		1.8358233640222723	true	Rome, Georgia
+3799	10.06		32		0.8423269281389839	true	Romeo, Michigan
+2221	18.48		13		0.585321927059883	true	Romney, West Virginia
+1582	14.18		8		0.5056890012642226	true	Ronceverte, West Virginia
+60	0.0		1		1.6666666666666667	true	Ronco, Pennsylvania
+2760	15.01		40		1.4492753623188406	true	Roosevelt Gardens, Florida
+3819	3.93		45		1.178318931657502	true	Roosevelt Park, Michigan
+445	50.55		3		0.6741573033707865	true	Roper, North Carolina
+386	6.9		3		0.7772020725388601	true	Rose City, Texas
+1655	12.98		12		0.7250755287009063	true	Roseboro, North Carolina
+358	17.24		2		0.5586592178770949	true	Rosebush, Michigan
+33600	17.57		180		0.5357142857142857	true	Rosenberg, Texas
+721	35.26		6		0.8321775312066574	true	Rosman, North Carolina
+4035	29.86		63		1.5613382899628252	true	Rossville, Georgia
+335	5.48		3		0.8955223880597015	true	Rothbury, Michigan
+1820	39.95		20		1.098901098901099	true	Rouse, California
+8316	34.19		67		0.8056758056758058	true	Roxboro, North Carolina
+518	26.36		3		0.5791505791505791	true	Roxton, Texas
+3014	17.82		17		0.5640345056403451	true	Royal Palm Estates, Florida
+2478	23.65		13		0.5246166263115416	true	Royston, Georgia
+379	2.68		2		0.5277044854881267	true	Ruby, South Carolina
+7884	6.43		51		0.6468797564687976	true	Ruidoso, New Mexico
+2674	33.93		14		0.5235602094240838	true	Ruidoso Downs, New Mexico
+4214	18.79		54		1.2814428096820123	true	Rumford, Maine
+4793	8.93		27		0.5633215105361986	true	Running Springs, California
+902	33.33		6		0.6651884700665188	true	Rupert, West Virginia
+3046	6.46		40		1.3131976362442548	true	Rural Hall, North Carolina
+786	16.41		5		0.6361323155216284	true	Rushmere, Virginia
+1374	12.1		8		0.5822416302765648	true	Russell, Georgia
+439	10.09		4		0.9111617312072893	true	Ruth, North Carolina
+4193	13.49		38		0.9062723586930598	true	Rutherfordton, North Carolina
+2352	21.75		15		0.6377551020408163	true	Sabina, Ohio
+50288	31.33		838		1.6664015272033088	true	Saginaw, Michigan
+25165	8.95		187		0.7430955692429961	true	Salem, Virginia
+137	2.33		1		0.7299270072992701	true	Salem, South Carolina
+374	8.62		2		0.53475935828877	true	Salemburg, North Carolina
+33653	18.27		430		1.2777464119097852	true	Salisbury, North Carolina
+329	15.0		4		1.21580547112462	true	Salley, South Carolina
+8698	23.63		63		0.7243044378017935	true	Sallisaw, Oklahoma
+799	15.17		6		0.7509386733416771	true	Saltsburg, Pennsylvania
+3585	36.3		40		1.1157601115760112	true	Saluda, South Carolina
+379	11.7		3		0.79155672823219	true	Sammons Point, Illinois
+1413881	15.89		9848		0.6965225503419312	true	San Antonio, Texas
+214112	29.02		2347		1.0961552832162607	true	San Bernardino, California
+4358	10.6		22		0.5048187241854061	true	San Castle, Florida
+5299	20.54		55		1.037931685223627	true	San Leon, Texas
+54712	19.16		344		0.6287468928205877	true	San Marcos, Texas
+7317	14.23		82		1.1206778734454013	true	Sandston, Virginia
+25488	18.56		311		1.220182046453233	true	Sandusky, Ohio
+2618	13.36		19		0.7257448433919022	true	Sandusky, Michigan
+100691	8.39		712		0.7071138433425033	true	Sandy Springs, Georgia
+169	0.0		1		0.591715976331361	true	Sanford, Virginia
+56170	17.82		443		0.7886772298379918	true	Sanford, Florida
+952	21.48		6		0.6302521008403361	true	Sanford, Michigan
+28988	17.02		219		0.7554850282875673	true	Sanford, North Carolina
+8157	15.8		143		1.7530955007968616	true	Sangaree, South Carolina
+7410	6.14		38		0.5128205128205128	true	Sanger, Texas
+1071	0.0		6		0.5602240896358543	true	Santa Susana, California
+20399	13.64		108		0.5294377175351732	true	Sapulpa, Oklahoma
+1953	28.77		19		0.9728622631848439	true	Sardis, Mississippi
+10540	21.59		64		0.6072106261859582	true	Sauk Village, Illinois
+315	9.09		3		0.9523809523809524	true	Sautee-Nacoochee, Georgia
+142919	20.92		1551		1.0852300953687053	true	Savannah, Georgia
+5130	12.81		42		0.8187134502923977	true	Sawmills, North Carolina
+1249	4.42		18		1.4411529223378703	true	Sawyerwood, Ohio
+198	10.91		1		0.5050505050505051	true	Saxis, Virginia
+334	0.0		2		0.5988023952095809	true	Saylorsburg, Pennsylvania
+1253	60.22		13		1.0375099760574622	true	Schall Circle, Florida
+2104	6.65		15		0.7129277566539924	true	Schofield, Wisconsin
+135	0.0		1		0.7407407407407408	true	Scotland, Virginia
+1613	32.23		10		0.6199628022318662	true	Scotland Neck, North Carolina
+10672	28.12		69		0.646551724137931	true	Scottdale, Georgia
+227471	6.18		1233		0.5420471180941746	true	Scottsdale, Arizona
+4335	21.32		33		0.7612456747404844	true	Scottsville, Kentucky
+839	27.64		8		0.9535160905840285	true	Scranton, South Carolina
+197	0.0		1		0.5076142131979695	true	Scraper, Oklahoma
+736	15.54		5		0.6793478260869565	true	Seaboard, North Carolina
+7290	26.63		68		0.9327846364883402	true	Seaford, Delaware
+928	23.58		5		0.5387931034482759	true	Seaman, Ohio
+6483	14.99		46		0.7095480487428659	true	Seaside, Oregon
+314	11.27		2		0.6369426751592357	true	Sebastopol, Mississippi
+10371	24.97		55		0.5303249445569376	true	Sebring, Florida
+191	36.17		2		1.0471204188481675	true	Sellers, South Carolina
+6220	38.07		103		1.6559485530546623	true	Selma, North Carolina
+7508	19.1		43		0.5727224294086308	true	Seminole, Oklahoma
+8017	11.79		74		0.9230385430959211	true	Senatobia, Mississippi
+8184	18.83		72		0.8797653958944283	true	Seneca, South Carolina
+16185	10.18		297		1.835032437442076	true	Seven Oaks, South Carolina
+76	0.0		1		1.3157894736842104	true	Seven Springs, North Carolina
+15903	19.87		100		0.6288121738036848	true	Sevierville, Tennessee
+18861	12.42		124		0.6574412809501087	true	Seymour, Indiana
+3371	43.09		36		1.0679323642835954	true	Shackelford, California
+1746	0.99		9		0.5154639175257731	true	Shadeland, Indiana
+7253	13.49		44		0.6066455259892458	true	Shamokin, Pennsylvania
+1829	11.18		11		0.6014215418261345	true	Shannon, Georgia
+3305	2.03		18		0.5446293494704992	true	Shannondale, West Virginia
+13754	20.12		72		0.5234840773593137	true	Sharon, Pennsylvania
+2885	19.82		19		0.658578856152513	true	Sharpes, Florida
+3426	22.11		43		1.2551079976649153	true	Sharpsburg, Pennsylvania
+4760	10.55		40		0.8403361344537815	true	Shaw Heights, Colorado
+670	28.9		4		0.5970149253731344	true	Shawnee, Ohio
+30866	16.62		212		0.6868398885505086	true	Shawnee, Oklahoma
+1274	34.38		7		0.5494505494505495	true	Shawsville, Virginia
+1908	26.0		15		0.7861635220125787	true	Shelby, Michigan
+20245	23.5		378		1.8671276858483576	true	Shelby, North Carolina
+14782	11.49		88		0.5953186307671493	true	Shelbyville, Kentucky
+2331	18.76		15		0.6435006435006435	true	Shell Point, South Carolina
+2412	11.48		18		0.7462686567164178	true	Shenandoah, Virginia
+516	0.0		3		0.5813953488372093	true	Shenandoah Junction, West Virginia
+564	0.0		3		0.5319148936170213	true	Shepherd, Montana
+5912	28.4		37		0.6258457374830853	true	Sheridan, Colorado
+39569	16.88		214		0.5408274154009453	true	Sherman, Texas
+19209	14.26		128		0.6663543130824093	true	Sherrelwood, Colorado
+2565	12.83		15		0.5847953216374269	true	Shinnston, West Virginia
+15570	19.48		152		0.9762363519588954	true	Shively, Kentucky
+1521	10.43		9		0.591715976331361	true	Shreve, Ohio
+200015	18.51		1706		0.8529360297977651	true	Shreveport, Louisiana
+20981	12.54		169		0.8054906820456604	true	Sidney, Ohio
+334	5.26		2		0.5988023952095809	true	Silo, Oklahoma
+6687	26.64		49		0.7327650665470316	true	Silsbee, Texas
+914	26.97		11		1.2035010940919038	true	Silver City, North Carolina
+5182	8.48		93		1.7946738710922425	true	Silver Hill, Maryland
+5874	16.83		47		0.8001361933946204	true	Silver Lake, North Carolina
+4769	9.84		35		0.7339064793457748	true	Silverton, Ohio
+4446	9.11		32		0.7197480881691408	true	Simonton Lake, Indiana
+19706	3.94		181		0.9185019790926622	true	Simpsonville, South Carolina
+6260	22.51		37		0.5910543130990416	true	Skowhegan, Maine
+325	2.48		3		0.9230769230769231	true	Sky Valley, Georgia
+1829	39.12		12		0.6560962274466922	true	Skyline Acres, Ohio
+2386	24.05		12		0.5029337803855826	true	Slater-Marietta, South Carolina
+4263	9.72		23		0.539526155289702	true	Slatington, Pennsylvania
+27567	12.96		178		0.645699568324446	true	Slidell, Louisiana
+3633	8.15		23		0.63308560418387	true	Slippery Rock, Pennsylvania
+73	0.0		1		1.36986301369863	true	Smith Village, Oklahoma
+11562	26.05		87		0.7524649714582252	true	Smithfield, North Carolina
+8233	14.33		46		0.5587270739706062	true	Smithfield, Virginia
+53829	10.51		629		1.1685151126716082	true	Smyrna, Georgia
+281	10.53		3		1.0676156583629894	true	Snelling, South Carolina
+104	0.0		1		0.9615384615384616	true	Snelling, California
+197	0.0		2		1.015228426395939	true	So-Hi, Arizona
+21641	15.66		385		1.7790305438750522	true	Socastee, South Carolina
+4304	6.96		24		0.5576208178438662	true	Social Circle, Georgia
+560	23.45		3		0.5357142857142857	true	Society Hill, South Carolina
+289	0.0		6		2.0761245674740483	true	Solana, Florida
+6127	17.77		34		0.554920842173984	true	Somerset, Pennsylvania
+11778	10.17		84		0.7131940906775344	true	Somersworth, New Hampshire
+1356	23.33		8		0.5899705014749262	true	Sophia, West Virginia
+124	0.0		1		0.8064516129032258	true	South Amana, Iowa
+5372	29.99		35		0.6515264333581534	true	South Apopka, Florida
+100590	22.76		1142		1.135301719852868	true	South Bend, Indiana
+8037	27.68		60		0.7465472191116088	true	South Boston, Virginia
+23822	20.72		177		0.7430106624128957	true	South Bradenton, Florida
+13276	9.12		88		0.6628502561012354	true	South Charleston, West Virginia
+1408	17.8		9		0.6392045454545455	true	South Coatesville, Pennsylvania
+2246	19.31		62		2.7604630454140695	true	South Congaree, South Carolina
+12343	14.22		119		0.9641092116989387	true	South Daytona, Florida
+4478	17.19		39		0.8709245198749441	true	South Greeley, Wyoming
+735	18.13		13		1.7687074829931975	true	South Henderson, North Carolina
+4624	23.32		36		0.7785467128027681	true	South Highpoint, Florida
+4566	9.75		31		0.6789312308366184	true	South Hill, Virginia
+26394	5.6		437		1.6556793210578162	true	South Laurel, Maryland
+6177	12.95		49		0.7932653391614052	true	South Monroe, Michigan
+2888	30.1		15		0.5193905817174516	true	South Padre Island, Texas
+3107	25.73		31		0.9977470228516253	true	South Pittsburg, Tennessee
+2736	29.56		31		1.1330409356725146	true	South Rosemary, North Carolina
+1740	16.91		18		1.0344827586206897	true	South Taft, California
+5686	39.22		58		1.0200492437565951	true	South Tucson, Arizona
+696	71.43		7		1.0057471264367817	true	South Weldon, North Carolina
+51090	7.75		470		0.9199451947543551	true	Southaven, Mississippi
+2900	1.61		43		1.4827586206896552	true	Southern Gateway, Virginia
+13018	11.19		72		0.5530803502842219	true	Southern Pines, North Carolina
+2288	9.98		14		0.6118881118881119	true	Southport, Indiana
+2021	7.79		13		0.6432459178624443	true	Southwest Greensburg, Pennsylvania
+19218	19.99		520		2.705796648974919	true	Spanish Lake, Missouri
+2373	30.33		18		0.7585335018963337	true	Sparks, Georgia
+5074	21.12		36		0.7094994087504927	true	Sparta, Tennessee
+196	0.0		1		0.5102040816326531	true	Spaulding, California
+95	0.0		1		1.0526315789473684	true	Speed, North Carolina
+12100	18.14		319		2.6363636363636362	true	Speedway, Indiana
+4004	14.87		32		0.7992007992007992	true	Spencer, Oklahoma
+3276	19.24		46		1.4041514041514043	true	Spencer, North Carolina
+4279	17.46		44		1.0282776349614395	true	Spindale, North Carolina
+492	4.55		3		0.6097560975609756	true	Spivey's Corner, North Carolina
+87	0.0		1		1.1494252873563218	true	Spring Hill, Indiana
+13336	18.59		194		1.4547090581883624	true	Spring Lake, North Carolina
+2151	26.08		89		4.137610413761041	true	Springdale, South Carolina
+2727	3.54		33		1.21012101210121	true	Springdale, South Carolina
+9186	24.26		90		0.9797517962116263	true	Springfield, Florida
+163763	17.9		1019		0.6222406770760184	true	Springfield, Missouri
+60007	22.43		738		1.2298565167397137	true	Springfield, Ohio
+5216	25.69		102		1.9555214723926382	true	Springfield, Michigan
+16639	17.5		99		0.5949876795480498	true	Springfield, Tennessee
+740	20.73		6		0.8108108108108109	true	Springport, Michigan
+3292	12.21		19		0.5771567436208992	true	Springvale, Maine
+10882	10.55		74		0.6800220547693439	true	St. Albans, West Virginia
+21779	20.35		1383		6.350153817897976	true	St. Andrews, South Carolina
+12973	11.86		102		0.7862483619825791	true	St. Ann, Missouri
+1971	16.54		14		0.7102993404363267	true	St. Charles, Michigan
+4706	9.56		36		0.764980875478113	true	St. Clair, Missouri
+2192	26.28		21		0.958029197080292	true	St. George, South Carolina
+393	5.61		2		0.5089058524173028	true	St. Helena, North Carolina
+6491	7.85		49		0.7548913880757973	true	St. John, Missouri
+7954	13.84		71		0.8926326376665829	true	St. Johns, Michigan
+8311	5.16		52		0.6256768138611478	true	St. Joseph, Michigan
+77037	15.58		460		0.5971156716902267	true	St. Joseph, Missouri
+1915	5.37		13		0.6788511749347258	true	St. Lawrence, Pennsylvania
+317850	21.7		3138		0.9872581406323737	true	St. Louis, Missouri
+115	12.82		1		0.8695652173913043	true	St. Louis, Oklahoma
+7728	10.7		113		1.462215320910973	true	St. Martin, Mississippi
+17837	8.15		90		0.5045691540057184	true	St. Matthews, Kentucky
+89	8.0		1		1.1235955056179776	true	St. Paul, Iowa
+250713	11.95		1456		0.5807437189136583	true	St. Petersburg, Florida
+1640	30.68		9		0.548780487804878	true	St. Stephen, South Carolina
+8954	11.21		50		0.5584096493187403	true	St. Stephens, North Carolina
+516	21.37		13		2.5193798449612403	true	Stacey Street, Florida
+18097	9.8		134		0.7404542189313146	true	Stafford, Texas
+232	55.93		2		0.8620689655172413	true	Stanfield, Arizona
+3680	25.45		20		0.5434782608695652	true	Stanford, Kentucky
+1697	15.49		20		1.1785503830288746	true	Stanley, Virginia
+396	37.04		2		0.5050505050505051	true	Stanton, Tennessee
+814	17.82		8		0.9828009828009828	true	Stantonsburg, North Carolina
+870	14.01		6		0.6896551724137931	true	Star, North Carolina
+2050	13.49		12		0.5853658536585366	true	Star City, West Virginia
+5401	15.86		30		0.5554526939455656	true	Starke, Florida
+24754	19.22		188		0.7594732164498668	true	Starkville, Mississippi
+696	32.47		4		0.5747126436781609	true	Startup, Washington
+1160	4.11		6		0.5172413793103449	true	Stateline, Nevada
+25443	26.47		151		0.5934834728609049	true	Statesville, North Carolina
+24193	11.02		123		0.5084115239945439	true	Staunton, Virginia
+5956	18.59		42		0.7051712558764271	true	Steelton, Pennsylvania
+157	0.0		1		0.6369426751592357	true	Steely Hollow, Oklahoma
+9563	15.08		74		0.7738157481961727	true	Steger, Illinois
+18381	19.54		177		0.9629508731842663	true	Steubenville, Ohio
+4007	31.71		37		0.9233840778637383	true	Stilwell, Oklahoma
+27328	11.91		260		0.9514051522248244	true	Stockbridge, Georgia
+354	0.0		2		0.5649717514124294	true	Stockdale, Pennsylvania
+299722	21.2		1781		0.5942173080387826	true	Stockton, California
+5991	24.29		126		2.103154732098147	true	Stone Mountain, Georgia
+384	34.09		2		0.5208333333333333	true	Stonewall, Oklahoma
+160	25.0		1		0.625	true	Stony Creek, Virginia
+841	8.43		5		0.5945303210463734	true	Stony Creek Mills, Pennsylvania
+1498	15.66		10		0.6675567423230975	true	Stony Point, Michigan
+1328	4.75		11		0.8283132530120483	true	Stony Prairie, Ohio
+321	17.28		2		0.6230529595015576	true	Stony Ridge, Ohio
+6506	4.43		37		0.5687058100215187	true	Strasburg, Virginia
+6035	19.71		31		0.5136702568351285	true	Stratmoor, Colorado
+184	11.11		1		0.5434782608695652	true	Stuart, Oklahoma
+262	7.81		2		0.7633587786259541	true	Stuckey, South Carolina
+86184	8.93		815		0.9456511649494105	true	Suffolk, Virginia
+3339	10.53		17		0.5091344713986223	true	Sugar Creek, Missouri
+549	19.38		4		0.7285974499089253	true	Sugar Grove, Virginia
+23824	10.16		528		2.216252518468771	true	Suitland, Maryland
+6998	18.51		57		0.8145184338382395	true	Sullivan, Missouri
+12403	4.93		137		1.1045714746432316	true	Summerfield, Maryland
+151	0.0		1		0.6622516556291391	true	Summerhaven, Arizona
+1093	24.15		7		0.6404391582799633	true	Summerton, South Carolina
+46200	11.23		280		0.6060606060606061	true	Summerville, South Carolina
+4422	22.82		38		0.8593396653098146	true	Summerville, Georgia
+4570	35.33		33		0.7221006564551422	true	Suncoast Estates, Florida
+1047	43.38		7		0.6685768863419294	true	Sunflower, Mississippi
+94	10.0		2		2.127659574468085	true	Sunny Side, Georgia
+191464	20.75		1669		0.8717043412860904	true	Sunrise Manor, Nevada
+4090	13.62		36		0.8801955990220048	true	Surfside Beach, South Carolina
+145	38.1		1		0.6896551724137931	true	Sussex, Virginia
+7456	33.54		38		0.509656652360515	true	Swainsboro, Georgia
+746	18.92		14		1.876675603217158	true	Swansea, South Carolina
+159	2.44		1		0.628930817610063	true	Sycamore, Kentucky
+2597	14.23		16		0.6160954948016942	true	Sylva, North Carolina
+133	2.44		1		0.7518796992481203	true	Sylvester, West Virginia
+3946	36.96		26		0.6588950836289914	true	Tabor City, North Carolina
+1117	18.64		6		0.5371530886302597	true	Taft Mosswood, California
+16354	23.89		124		0.7582242876360523	true	Tahlequah, Oklahoma
+187024	14.95		1439		0.7694199674908033	true	Tallahassee, Florida
+355603	16.9		2724		0.7660227838347821	true	Tampa, Florida
+491	12.88		3		0.6109979633401221	true	Tangier, Virginia
+2223	19.91		16		0.7197480881691408	true	Tappahannock, Virginia
+11292	12.83		78		0.6907545164718385	true	Tarboro, North Carolina
+1272	2.74		11		0.8647798742138365	true	Tariffville, Connecticut
+2183	32.2		18		0.8245533669262484	true	Taylorsville, North Carolina
+1440	0.0		9		0.625	true	Teaticket, Massachusetts
+6583	15.06		37		0.5620537748746772	true	Tecumseh, Oklahoma
+648	19.63		5		0.7716049382716049	true	Tekonsha, Michigan
+169816	12.24		3188		1.8773260470155935	true	Tempe, Arizona
+69938	13.06		586		0.8378849838428323	true	Temple, Texas
+4248	2.36		34		0.800376647834275	true	Temple, Georgia
+8023	13.69		178		2.2186214632930326	true	Temple Hills, Maryland
+25354	11.24		188		0.7415003549735742	true	Temple Terrace, Florida
+488	16.56		4		0.819672131147541	true	Templeton, Virginia
+1499	25.2		15		1.0006671114076051	true	Tennille, Georgia
+147	28.12		1		0.6802721088435374	true	Teresita, Oklahoma
+972	19.51		11		1.131687242798354	true	Terrytown, Nebraska
+46266	17.81		446		0.9639908356028185	true	Texas City, Texas
+8878	15.53		86		0.9686866411353908	true	Thompsonville, Connecticut
+6697	33.61		44		0.657010601761983	true	Thomson, Georgia
+13292	16.14		120		0.9027986758952753	true	Thonotosassa, Florida
+127688	6.95		645		0.5051375227116095	true	Thornton, Colorado
+1598	11.52		9		0.5632040050062578	true	Three Oaks, Michigan
+72	0.0		1		1.3888888888888888	true	Thynedale, Virginia
+165	0.0		1		0.6060606060606061	true	Tierra Grande, Texas
+16656	31.79		193		1.158741594620557	true	Tifton, Georgia
+3725	6.02		25		0.6711409395973155	true	Tilton Northfield, New Hampshire
+12440	10.67		76		0.6109324758842444	true	Timberlake, Virginia
+357	27.94		3		0.8403361344537815	true	Timberon, New Mexico
+2283	31.56		41		1.7958826106000876	true	Timmonsville, South Carolina
+3075	20.03		17		0.5528455284552846	true	Tishomingo, Oklahoma
+1293	16.18		12		0.9280742459396751	true	Toast, North Carolina
+8302	16.51		47		0.5661286437003131	true	Toccoa, Georgia
+282275	22.89		3209		1.1368346470640334	true	Toledo, Ohio
+6806	23.59		102		1.4986776373787833	true	Tolleson, Arizona
+337	6.02		2		0.5934718100890208	true	Toms Brook, Virginia
+127672	14.09		1012		0.792656181465004	true	Topeka, Kansas
+4980	16.31		32		0.642570281124498	true	Toronto, Ohio
+1625	11.79		9		0.5538461538461538	true	Towanda, Kansas
+12176	9.68		178		1.461892247043364	true	Trenton, Ohio
+640	21.59		4		0.625	true	Triadelphia, West Virginia
+8901	7.83		131		1.471744747781148	true	Triangle, Virginia
+333	14.29		2		0.6006006006006006	true	Trilby, Florida
+194	0.0		1		0.5154639175257731	true	Trinway, Ohio
+24258	24.44		396		1.6324511501360377	true	Trotwood, Ohio
+25411	11.69		140		0.5509425052142772	true	Troy, Ohio
+47316	6.78		237		0.5008876489982247	true	Tuckahoe, Virginia
+27761	14.12		140		0.504304599978387	true	Tucker, Georgia
+528374	18.56		6607		1.2504400292217255	true	Tucson, Arizona
+398082	16.24		6279		1.5773132168749153	true	Tulsa, Oklahoma
+1233	11.03		26		2.10867802108678	true	Tunica, Mississippi
+1514	9.35		81		5.3500660501981505	true	Tunica Resorts, Mississippi
+35561	22.13		317		0.8914260003936898	true	Tupelo, Mississippi
+2291	10.31		22		0.9602793539938891	true	Turley, Oklahoma
+5324	20.26		39		0.7325319308790383	true	Turtle Creek, Pennsylvania
+985	33.18		6		0.6091370558375634	true	Ty Ty, Georgia
+187	18.18		1		0.53475935828877	true	Ukiah, Oregon
+125	2.04		1		0.8	true	Ulen, Indiana
+345	0.0		2		0.5797101449275363	true	Union, Washington
+8144	26.25		203		2.4926326129666014	true	Union, South Carolina
+1717	30.25		10		0.5824111822947	true	Union City, Ohio
+20459	25.01		491		2.3999217948091305	true	Union City, Georgia
+10722	23.85		86		0.8020891624696885	true	Union City, Tennessee
+101	0.0		1		0.9900990099009901	true	Union Level, Virginia
+10150	22.45		105		1.0344827586206897	true	Uniontown, Pennsylvania
+1574	37.05		25		1.588310038119441	true	Unionville, Georgia
+114	21.74		1		0.8771929824561403	true	Unity Village, Missouri
+41858	38.68		905		2.1620717664484688	true	University, Florida
+32937	17.33		237		0.7195555150742325	true	University, Florida
+4341	7.54		28		0.64501266989173	true	University Center, Virginia
+35172	10.99		191		0.5430456044580917	true	University City, Missouri
+6963	12.83		116		1.6659485853798652	true	University Park, Illinois
+3234	15.94		36		1.1131725417439702	true	Upland, Pennsylvania
+75542	11.21		428		0.56657223796034	true	Upland, California
+384	21.57		2		0.5208333333333333	true	Uplands Park, Missouri
+1280	4.81		8		0.625	true	Upper Falls, West Virginia
+1388	15.37		22		1.585014409221902	true	Utica, South Carolina
+5321	4.29		37		0.6953580154106371	true	Vail, Colorado
+718	31.58		11		1.532033426183844	true	Valley Brook, Oklahoma
+312	6.9		2		0.641025641025641	true	Valley Grove, West Virginia
+320	6.33		2		0.625	true	Valley Hi, Ohio
+729	10.65		7		0.9602194787379973	true	Valleyview, Ohio
+98	0.0		1		1.0204081632653061	true	Van, West Virginia
+276	9.46		3		1.0869565217391304	true	Van Bibber Lake, Indiana
+1491	42.27		8		0.5365526492287056	true	Vanceburg, Kentucky
+1097	6.06		7		0.6381039197812215	true	Vander, North Carolina
+2277	29.03		13		0.5709266578831796	true	Varnville, South Carolina
+1315	17.18		13		0.988593155893536	true	Velda City, Missouri
+905	24.41		5		0.5524861878453038	true	Velda Village Hills, Missouri
+183	12.77		1		0.546448087431694	true	Ventura, New Mexico
+115	0.0		2		1.7391304347826086	true	Verlot, Washington
+41	0.0		2		4.878048780487805	true	Vernon, California
+126	4.76		1		0.7936507936507936	true	Vernonburg, Georgia
+15788	10.46		103		0.6523942234608563	true	Vero Beach, Florida
+3062	27.01		53		1.7308948399738733	true	Verona, Mississippi
+1682	17.4		9		0.535077288941736	true	Versailles, Pennsylvania
+23439	27.72		224		0.9556721703144332	true	Vicksburg, Mississippi
+374	2.97		2		0.53475935828877	true	Victor, Colorado
+120703	22.5		785		0.6503566605635319	true	Victorville, California
+10887	14.66		74		0.6797097455681088	true	Vidor, Texas
+458	26.25		10		2.1834061135371177	true	Villa Heights, Virginia
+14435	15.84		192		1.3301004502944234	true	Villa Rica, Georgia
+181	0.0		1		0.5524861878453038	true	Vina, California
+11224	1.74		156		1.3898788310762653	true	Vinings, Georgia
+5610	20.81		31		0.5525846702317291	true	Vinita, Oklahoma
+1940	22.71		17		0.8762886597938144	true	Vinita Park, Missouri
+8162	9.66		77		0.9433962264150944	true	Vinton, Virginia
+448290	6.63		4565		1.018314037788039	true	Virginia Beach, Virginia
+201	16.42		2		0.9950248756218906	true	Wachapreague, Virginia
+322	24.24		2		0.6211180124223602	true	Waco, North Carolina
+474	10.14		4		0.8438818565400843	true	Waco, Georgia
+129193	20.03		717		0.5549836291439939	true	Waco, Texas
+5664	27.36		41		0.7238700564971752	true	Wadesboro, North Carolina
+774	33.62		9		1.1627906976744187	true	Wagener, South Carolina
+8583	18.81		50		0.5825468950250495	true	Wagoner, Oklahoma
+850	16.13		7		0.823529411764706	true	Wakefield, Virginia
+978	8.33		14		1.4314928425357873	true	Wakeman, Ohio
+71399	7.4		734		1.028025602599476	true	Waldorf, Maryland
+4234	41.96		29		0.684931506849315	true	Walhalla, South Carolina
+11293	11.21		113		1.000619853006287	true	Walker Mill, Maryland
+1874	10.71		10		0.5336179295624333	true	Walkerton, Indiana
+860	14.93		6		0.6976744186046512	true	Wallace, South Carolina
+1247	17.18		22		1.7642341619887731	true	Walls, Mississippi
+5312	21.72		98		1.8448795180722892	true	Walterboro, South Carolina
+4136	21.55		29		0.7011605415860735	true	Walthourville, Georgia
+1351	28.96		8		0.5921539600296076	true	Wamac, Illinois
+90	14.29		1		1.1111111111111112	true	Ward, South Carolina
+143	0.0		1		0.6993006993006993	true	Ware Place, South Carolina
+72520	21.18		1317		1.8160507446221732	true	Warner Robins, Georgia
+10342	13.15		72		0.6961902920131503	true	Warr Acres, Oklahoma
+134857	16.18		1188		0.8809331365817125	true	Warren, Michigan
+40705	29.76		439		1.0784915858002702	true	Warren, Ohio
+356	3.61		2		0.5617977528089888	true	Warren City, Texas
+1697	29.89		10		0.5892751915144373	true	Warren Park, Indiana
+435	8.42		3		0.6896551724137931	true	Warrens, Wisconsin
+13336	17.01		474		3.5542891421715654	true	Warrensville Heights, Ohio
+932	16.35		8		0.8583690987124464	true	Warrenton, North Carolina
+1008	15.58		20		1.984126984126984	true	Warrenville, South Carolina
+14385	7.15		81		0.5630865484880083	true	Warsaw, Indiana
+3168	51.58		16		0.5050505050505051	true	Warsaw, North Carolina
+647484	14.33		4537		0.7007122955934046	true	Washington, District of Columbia
+13642	19.8		121		0.8869667204222255	true	Washington, Pennsylvania
+9777	19.06		79		0.8080188196788382	true	Washington, North Carolina
+1310	2.61		21		1.6030534351145038	true	Washington Park, Florida
+725	12.27		6		0.8275862068965517	true	Wataga, Illinois
+376	15.09		2		0.5319148936170213	true	Watauga, Tennessee
+109551	21.22		1437		1.3117178300517567	true	Waterbury, Connecticut
+3245	22.94		25		0.7704160246533128	true	Watergate, Florida
+160	28.57		1		0.625	true	Waterloo, South Carolina
+68432	13.25		617		0.9016249707739069	true	Waterloo, Iowa
+2210	20.0		55		2.48868778280543	true	Waterloo, Indiana
+3318	13.74		20		0.6027727546714888	true	Watertown, Florida
+15989	13.56		194		1.2133341672399776	true	Waterville, Maine
+1773	12.74		14		0.7896221094190639	true	Watervliet, Michigan
+1409	17.97		33		2.34208658623137	true	Watterson Park, Kentucky
+1822	17.19		43		2.3600439077936337	true	Watts Mills, South Carolina
+6449	25.72		42		0.6512637618235385	true	Waveland, Mississippi
+215	0.0		2		0.9302325581395349	true	Waverly, West Virginia
+828	0.0		5		0.6038647342995169	true	Waverly, Florida
+1570	21.48		13		0.8280254777070064	true	Waverly, Virginia
+4408	0.0		27		0.6125226860254084	true	Waverly City, Ohio
+65	0.0		1		1.5384615384615385	true	Waves, North Carolina
+14258	28.53		90		0.631224575676813	true	Waycross, Georgia
+4109	12.66		48		1.1681674373326842	true	Wayland, Michigan
+21150	12.98		218		1.0307328605200945	true	Waynesboro, Virginia
+9748	14.0		77		0.7899056216659827	true	Waynesville, North Carolina
+10993	14.5		68		0.6185754571090694	true	Webster, Texas
+19432	12.13		127		0.65356113627007	true	Weirton, West Virginia
+368	21.11		2		0.5434782608695652	true	Weissport, Pennsylvania
+1388	8.82		7		0.5043227665706052	true	Weissport East, Pennsylvania
+16408	13.38		113		0.6886884446611409	true	Welby, Colorado
+4743	8.86		24		0.5060088551549652	true	Welcome, North Carolina
+1623	18.28		16		0.9858287122612447	true	Weldon, North Carolina
+12014	12.93		123		1.0238055601797902	true	Wells Branch, Texas
+2746	8.08		14		0.5098324836125273	true	Wellsburg, West Virginia
+1949	51.32		24		1.2314007183170856	true	Wellston, Missouri
+3461	28.11		18		0.5200809014735626	true	Wellsville, Ohio
+861	9.34		7		0.8130081300813009	true	West Brownsville, Pennsylvania
+1196	20.63		11		0.919732441471572	true	West Buechel, Kentucky
+15757	12.81		255		1.6183283619978424	true	West Columbia, South Carolina
+55189	10.74		353		0.6396202141731142	true	West Haven, Connecticut
+1898	33.69		14		0.7376185458377239	true	West Hill, Ohio
+15838	12.96		95		0.5998232100012627	true	West Lealman, Florida
+30749	22.1		197		0.6406712413411818	true	West Little River, Florida
+573	15.79		3		0.5235602094240838	true	West Logan, West Virginia
+1413	15.7		10		0.7077140835102618	true	West Marion, North Carolina
+140	12.9		2		1.4285714285714286	true	West Millgrove, Ohio
+4222	19.44		35		0.8289909995262909	true	West Milwaukee, Wisconsin
+6041	37.58		35		0.5793742757821553	true	West Modesto, California
+3345	17.82		86		2.571001494768311	true	West Monroe, Michigan
+711	3.72		5		0.7032348804500703	true	West Nanticoke, Pennsylvania
+3452	9.35		46		1.3325608342989572	true	West Orange, Texas
+103588	14.76		952		0.9190253697339459	true	West Palm Beach, Florida
+14779	18.54		109		0.7375329859936396	true	West Park, Florida
+921	20.76		27		2.9315960912052117	true	West Pelzer, South Carolina
+20538	19.72		162		0.7887817703768624	true	West Pensacola, Florida
+4445	7.05		23		0.5174353205849269	true	West Peoria, Illinois
+3410	21.13		37		1.0850439882697949	true	West Point, Georgia
+4191	9.24		23		0.5487950369840133	true	West Reading, Pennsylvania
+7010	42.18		63		0.8987161198288159	true	West Samoset, Florida
+3180	23.72		19		0.5974842767295598	true	West Union, Ohio
+4583	15.36		23		0.5018546803403884	true	West York, Pennsylvania
+1143	16.61		6		0.5249343832020997	true	Westfield, Pennsylvania
+8310	34.4		75		0.9025270758122743	true	Westgate, Florida
+719	21.51		5		0.6954102920723227	true	Westminster, Texas
+1688	9.98		13		0.7701421800947867	true	Weston, Ohio
+4096	14.39		25		0.6103515625	true	Weston, West Virginia
+4145	14.81		76		1.833534378769602	true	Westover, West Virginia
+8564	22.32		106		1.237739374124241	true	Westwego, Louisiana
+9372	8.44		83		0.8856167306871532	true	Westwood, Michigan
+1288	18.26		9		0.6987577639751553	true	Wetumka, Oklahoma
+30863	9.55		161		0.5216602404173282	true	Wheat Ridge, Colorado
+27894	11.57		234		0.8388900838890083	true	Wheeling, West Virginia
+1351	33.71		11		0.8142116950407106	true	White Cloud, Michigan
+640	9.94		4		0.625	true	White Hall, West Virginia
+309	44.44		2		0.6472491909385114	true	White Oak, North Carolina
+2274	14.41		12		0.5277044854881267	true	White Pine, Tennessee
+16733	15.28		192		1.1474332158011116	true	White Settlement, Texas
+2538	26.6		14		0.5516154452324665	true	White Sulphur Springs, West Virginia
+18521	19.4		346		1.8681496679444953	true	Whitehall, Ohio
+548	16.79		3		0.5474452554744526	true	Whitesville, West Virginia
+5512	29.09		39		0.7075471698113208	true	Whiteville, North Carolina
+40165	11.76		510		1.2697622307979586	true	Whitney, Nevada
+387147	12.9		2830		0.7309884875770702	true	Wichita, Kansas
+6052	9.18		31		0.5122273628552544	true	Wildwood, Florida
+3548	31.18		18		0.5073280721533258	true	Wilkesboro, North Carolina
+15866	21.73		203		1.2794655237615025	true	Wilkinsburg, Pennsylvania
+1811	18.91		12		0.6626173384870238	true	Willamina, Oregon
+691	17.72		10		1.447178002894356	true	Williamsdale, Ohio
+5569	14.07		52		0.9337403483569762	true	Williamston, North Carolina
+4029	7.08		45		1.1169024571854058	true	Williamston, South Carolina
+1279	6.88		8		0.6254886630179828	true	Williamstown, Pennsylvania
+6127	15.64		37		0.603884445895218	true	Willis, Texas
+3069	24.05		28		0.9123492994460737	true	Williston, South Carolina
+9428	3.21		83		0.8803563852354689	true	Willoughby Hills, Ohio
+3518	16.3		20		0.5685048322910745	true	Wills Point, Texas
+1766	29.02		13		0.7361268403171007	true	Wilmerding, Pennsylvania
+111998	16.25		1118		0.9982321112877015	true	Wilmington, North Carolina
+12428	21.25		77		0.6195687158030254	true	Wilmington, Ohio
+71549	20.67		1238		1.730282743294805	true	Wilmington, Delaware
+7912	9.63		82		1.0364004044489383	true	Wilmington Manor, Delaware
+198	0.0		1		0.5050505050505051	true	Wilsall, Montana
+49478	20.73		871		1.7603783499737256	true	Wilson, North Carolina
+12133	2.68		79		0.6511167889227726	true	Wilton Manors, Florida
+28365	20.66		386		1.3608320112815089	true	Winchester, Nevada
+1037	9.27		8		0.7714561234329798	true	Windemere, Texas
+14928	14.21		92		0.6162915326902465	true	Winder, Georgia
+1852	31.91		18		0.9719222462203023	true	Windham, Ohio
+71	0.0		1		1.4084507042253522	true	Windsor, South Carolina
+2642	13.01		14		0.5299015897047691	true	Windsor, Virginia
+3419	20.19		66		1.9303890026323485	true	Winnsboro, South Carolina
+2111	34.61		55		2.6054002842254858	true	Winnsboro Mills, South Carolina
+236642	18.42		3173		1.3408439752875652	true	Winston-Salem, North Carolina
+35835	13.4		192		0.5357890330682293	true	Winter Haven, Florida
+578	0.0		6		1.0380622837370241	true	Winter Park, Colorado
+171	0.0		1		0.5847953216374269	true	Winterhaven, California
+1110	0.0		6		0.5405405405405406	true	Winterport, Maine
+97	0.0		1		1.0309278350515463	true	Wintersburg, Arizona
+18104	10.35		110		0.6076005302695536	true	Wisconsin Rapids, Wisconsin
+4475	23.91		62		1.3854748603351956	true	Wolf Lake, Michigan
+124	0.0		1		0.8064516129032258	true	Wolf Summit, West Virginia
+803	31.19		5		0.62266500622665	true	Woodbury, Georgia
+9776	17.72		254		2.5981996726677576	true	Woodfield, South Carolina
+726	0.0		4		0.5509641873278237	true	Woodlawn, North Carolina
+3284	10.4		22		0.6699147381242387	true	Woodlawn, Ohio
+160	0.0		1		0.625	true	Woodlawn Park, Oklahoma
+925	17.8		7		0.7567567567567568	true	Woodmere, Ohio
+4104	19.96		27		0.6578947368421052	true	Woodruff, South Carolina
+150	22.86		1		0.6666666666666667	true	Woodside, Delaware
+2027	29.59		22		1.0853478046373952	true	Woodside East, Delaware
+4072	8.67		37		0.9086444007858546	true	Woodson Terrace, Missouri
+5181	14.66		47		0.9071607797722447	true	Woodstock, Virginia
+41213	22.05		584		1.417028607478223	true	Woonsocket, Rhode Island
+1597	8.44		8		0.5009392611145899	true	Worthington Hills, Kentucky
+2436	9.86		14		0.5747126436781609	true	Wrightsville, Pennsylvania
+25376	8.43		150		0.5911097099621689	true	Wyandotte, Michigan
+162	0.0		2		1.2345679012345678	true	Wynnedale, Indiana
+2080	39.15		17		0.8173076923076924	true	Yanceyville, North Carolina
+11421	43.74		128		1.1207424919008844	true	Yazoo City, Mississippi
+391	51.49		3		0.7672634271099744	true	Yonah, Georgia
+698	13.26		4		0.5730659025787965	true	York Haven, Pennsylvania
+9244	18.98		55		0.5949805279099957	true	Yorkshire, Virginia
+130	0.0		1		0.7692307692307693	true	Yorktown, Virginia
+65573	32.36		677		1.0324371311362908	true	Youngstown, Ohio
+19874	26.7		506		2.5460400523296767	true	Ypsilanti, Michigan
+21258	16.93		116		0.5456769216295042	true	Yucca Valley, California
+25470	27.67		231		0.9069493521790342	true	Zanesville, Ohio
+4690	12.46		29		0.6183368869936035	true	Zebulon, North Carolina
+2310	6.05		18		0.7792207792207793	true	Zephyrhills North, Florida
+5359	7.94		35		0.6531069229333831	true	Zephyrhills South, Florida
+24251	16.55		144		0.5937899468063172	true	Zion, Illinois
+

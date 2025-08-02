@@ -1,0 +1,15 @@
+Read 16 towns  from smallEvictionData.txt.
+ The following (11)  are flagged, at threshold: 0.08:
+popul 	povRate 	evictions 	eviction rate  	   on watch 	name, state 
+609	12.16		4		0.6568144499178982	true	Holland, TX
+5081	5.17		26		0.5117102932493603	true	PlRunFarm, OH
+3137	27.85		9		0.2868983104877271	true	Wilkesboro, NC
+13151	10.05		24		0.18249562770891947	true	Claremont, NH
+4281	15.85		16		0.37374445223078717	true	MViewAcres, CA
+44693	5.66		102		0.2282236591860023	true	Altadena, CA
+39043	19.2		599		1.534205875573086	true	Goldsboro, NC
+12983	4.82		20		0.15404760070861895	true	Kaukauna, WI
+11499	16.96		25		0.21741020958344204	true	Lovington, NM
+40172	14.0		328		0.8164890968834014	true	Hickory, NC
+91626	16.71		529		0.5773470412328379	true	Lynn, MA
+

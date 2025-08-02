@@ -1,0 +1,6 @@
+Read 16 towns  from smallEvictionData.txt.
+ The following (2)  are flagged, at threshold: 0.8:
+popul 	povRate 	evictions 	eviction rate  	   on watch 	name, state 
+39043	19.2		599		1.534205875573086	true	Goldsboro, NC
+40172	14.0		328		0.8164890968834014	true	Hickory, NC
+

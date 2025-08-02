@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=EvictionsList
+comment0.text=\n\ EvictionsList.java\n\ Reads\ some\ Town\ data\ from\ a\ file.\n\ Determines\ which\ of\ the\ towns\ have\ increased\ eviction\ rate,\ according\ to\ a\ threshold\n\ Outputs\ the\ results\ in\ a\ txt\ file.\n\ This\ version\ uses\ java's\ LinkedLists\n\n\ @author\ cs230\ staff\ (SK)\ and\ ****\ Bessie\ Li\n\ @version\ 9/20\n
+comment1.params=filename
+comment1.target=EvictionsList(java.lang.String)
+comment1.text=\n\ This\ is\ the\ constructor\ for\ the\ class\n\ \n\ @param\ \ String\ \ string\ of\ the\ file\ name\ that\ needs\ to\ be\ read\n
+comment2.params=filename
+comment2.target=void\ readFromFile(java.lang.String)
+comment2.text=\n\ The\ readFromFile\ method\ takes\ a\ file,\ reads\ it,\ and\ puts\ the\ information\ into\ a\ linked\ list\n\ \n\ @param\ \ String\ \ \ string\ of\ the\ file\ name\ that\ has\ to\ be\ read\n
+comment3.params=t
+comment3.target=void\ setThreshold(double)
+comment3.text=\n\ The\ setThreshold\ method\ sets\ the\ new\ threshold\n\n\ @param\ t\ \ double\ representation\ of\ what\ the\ threshold\ will\ be\ set\ to\n
+comment4.params=
+comment4.target=void\ flagTowns()
+comment4.text=\n\ The\ flagTowns\ method\ sets\ flags\ of\ every\ town\ in\ the\ linked\ list\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ String\ representation\ of\ this\ object\:\ The\ names\ of\ the\n\ files\ the\ program\ reads\ from\ and\ writes\ to,\ the\ eviction\ rate\ threshold,\n\ and\ the\ flagged\ towns.\n\n\ @return\ A\ string\ representation\ of\ the\ object\n
+comment6.params=filename
+comment6.target=void\ writeToFile(java.lang.String)
+comment6.text=\n\ The\ writeToFile\ method\ takes\ a\ file\ and\ writes\ to\ that\ file\n\ \n\ @param\ \ String\ \ string\ of\ the\ file\ name\ that\ has\ to\ be\ written\ to\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ The\ main\ method\ used\ for\ testing\ methods\n\n\ @param\ \ String[]\ \ commandline\ statement\n
+numComments=8

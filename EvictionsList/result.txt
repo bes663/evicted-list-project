@@ -1,0 +1,9 @@
+
+Results
+
+threshold --> 	      	0.08%	0.5%	0.8%	8%
+
+smallEvictionData    |	11	5	2	0
+completeEvictionData |	10987	2307	999	3
+
+The results show that the higher the threshold percentage, the lower the number of flagged towns. This is logical because a higher threshold would mean that the towns would need to have higher eviction rates to be above the threshold, and not many towns have a high percentage of evictions when it gets up to 8% for example.
